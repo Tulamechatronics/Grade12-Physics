@@ -42,8 +42,10 @@
 ✅ [ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder](https://www.youtube.com/watch?v=aeaQpuYPsy8&t=82s) 
 
 ###      មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
+- [Macroscopic & Microscopic point of view](https://www.youtube.com/watch?v=eeu6OVNtjkc)
 - [សម្រាយបញ្ជាក់ PV = nRT](https://www.youtube.com/watch?v=voFVaeDZrjc&t=2s)
 - [មេរៀនបង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns)
+- [Phet Simulation: gas-properties](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_en.html) ប្រើសម្រាប់ជំនួយក្នុងការពន្យល់ពី P~ T,N && P~ 1/V និង ថាមពលស៊ីនេទិចមធ្យម របស់ម៉ូលេគុល
 ###       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
 ###       មេរៀនទី ០៣ ម៉ាស៊ីន
 ---
