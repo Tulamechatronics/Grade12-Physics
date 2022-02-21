@@ -1,5 +1,5 @@
 # Grade12-Physics
-Onsite/Online Learning 
+មាតិកា
 
 
 # ជំពូកទី ១ ទែម៉ូឌីណាមិច
