@@ -51,6 +51,7 @@
 - [មេរៀន ច្បាប់ទី ១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamreiGv9yH8FF12aw9xcqCrZ)
 
 ###       មេរៀនទី ០៣ ម៉ាស៊ីន
+- [មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrWn6PHIUqPCSxhPfB8IELI)
 ---
 
 
