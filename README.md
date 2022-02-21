@@ -38,6 +38,7 @@
 # ជំពូកទី ១ ទែម៉ូឌីណាមិច
 ✅ [ The Physics of Randomness](https://www.youtube.com/watch?v=5jBVYvHeG2c) <br>
 ✅ [ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder](https://www.youtube.com/watch?v=aeaQpuYPsy8&t=82s) 
+✅ [  First Law of Thermodynamics: History of the Concept of Energy](https://www.youtube.com/watch?v=a9c7u-FM-Wc&list=PLepnjl2hm9tHRMTdVyJ8t9HB6TZ63hFdU)
 ###      មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
 - [មេរៀនបង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns)
 ###       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
