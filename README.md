@@ -36,6 +36,7 @@
 
 
 # ជំពូកទី ១ ទែម៉ូឌីណាមិច
+**Engage Video**[The Physics of Randomness](https://www.youtube.com/watch?v=5jBVYvHeG2c)
 ##      មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
 ##       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
 ##       មេរៀនទី ០៣ ម៉ាស៊ីន
