@@ -1,3 +1,7 @@
+
+<img src="https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Naval-Ravikant-Quote-Free-education-is-abundant-all-over-the-Internet.-It%E2%80%99s-the-desire-to-learn-that%E2%80%99s-scarce.jpg" width=50% height=40%>
+
+
 # Grade12-Physics
 មាតិកា
 * ជំពូកទី ០១\. ទែម៉ូឌីណាមិច 
