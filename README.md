@@ -36,10 +36,11 @@
 
 
 # ជំពូកទី ១ ទែម៉ូឌីណាមិច
-**Engage Video**[The Physics of Randomness](https://www.youtube.com/watch?v=5jBVYvHeG2c)
-##      មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
-##       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
-##       មេរៀនទី ០៣ ម៉ាស៊ីន
+**Engage Video**[ The Physics of Randomness](https://www.youtube.com/watch?v=5jBVYvHeG2c)
+**Engage Video**[ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder](https://www.youtube.com/watch?v=aeaQpuYPsy8&t=82s)
+###      មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
+###       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
+###       មេរៀនទី ០៣ ម៉ាស៊ីន
 ---
 
 
