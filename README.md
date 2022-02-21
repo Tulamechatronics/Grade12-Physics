@@ -35,7 +35,7 @@
 
 
 
-# ជំពូកទី ១ ទែម៉ូឌីណាមិច
+# ជំពូកទី ១ 🌡️ ទែម៉ូឌីណាមិច 🔥
 ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
 ✅ [ The Physics of Randomness](https://www.youtube.com/watch?v=5jBVYvHeG2c) <br>
 ✅ [  First Law of Thermodynamics: History of the Concept of Energy](https://www.youtube.com/watch?v=a9c7u-FM-Wc&list=PLepnjl2hm9tHRMTdVyJ8t9HB6TZ63hFdU) <br>
@@ -58,5 +58,5 @@
 - **2018**  [ភាគទី ០១](https://www.youtube.com/watch?v=SwXULemlvzQ&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=7) && [ភាគទី ០២](https://www.youtube.com/watch?v=HAcV2UpRrqI&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=8)
 - **2019**  [ភាគទី ០១](https://www.youtube.com/watch?v=z0sjGGEBdyU&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=9) && [ភាគទី ០២](https://www.youtube.com/watch?v=18M_o-1l3Ok&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=10)
 
-## សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប (ធានា បាន A+ រូបវិទ្យា 💯)
+## 🎯សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប 📝 (ធានា បាន A+ រូបវិទ្យា 🏆 )
 [សៀវភៅសង្ខេបក្រសួងធ្លាប់ចេញប្រលង](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/%E1%9E%9A%E1%9E%BC%E1%9E%94%E1%9E%9C%E1%9E%B7%E1%9E%91%E1%9F%92%E1%9E%99%E1%9E%B6_%E1%9E%91%E1%9E%B8%E1%9F%A1%E1%9F%A2%E1%9E%98%E1%9F%81%E1%9E%9A%E1%9F%80%E1%9E%93_%E1%9E%9F%E1%9E%84%E1%9F%92%E1%9E%81%E1%9F%81%E1%9E%94_%E1%9E%93%E1%9E%B7%E1%9E%84_%E1%9E%9B%E1%9F%86%E1%9E%A0%E1%9E%B6%E1%9E%8F%E1%9F%8B_%E1%9E%82%E1%9F%86%E1%9E%9A%E1%9E%BC_%E1%9E%9F%E1%9E%98%E1%9F%92%E1%9E%9A%E1%9E%B6%E1%9E%94%E1%9F%8B_%E1%9E%87%E1%9E%B6_%E1%9E%87%E1%9F%86%E1%9E%93%E1%9E%BD%E1%9E%99_%E1%9E%9F%E1%9E%B7%E1%9E%9F%E1%9F%92%E1%9E%9F_%E1%9E%90%E1%9F%92%E1%9E%93%E1%9E%B6%E1%9E%80%E1%9F%8B_%E1%9E%91%E1%9E%B8%E1%9F%A1%E1%9F%A2.pdf)
