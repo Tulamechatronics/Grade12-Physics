@@ -13,7 +13,7 @@ Onsite/Online Learning
 
 
 ## អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ)
-- 2017 [ឆ្នាំ 2017 ភាគទី ០១](https://www.youtube.com/watch?v=BICz-zBGdNs) // [ឆ្នាំ 2017 ភាគទី ០២](https://www.youtube.com/watch?v=GD5aZV60qm4)
+- **2017** [ឆ្នាំ 2017 ភាគទី ០១](https://www.youtube.com/watch?v=BICz-zBGdNs) // [ឆ្នាំ 2017 ភាគទី ០២](https://www.youtube.com/watch?v=GD5aZV60qm4)
 
 ## សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប (ធានា បាន A+ រូបវិទ្យា 💯)
 [សៀវភៅសង្ខេបក្រសួងធ្លាប់ចេញប្រលង](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/%E1%9E%9A%E1%9E%BC%E1%9E%94%E1%9E%9C%E1%9E%B7%E1%9E%91%E1%9F%92%E1%9E%99%E1%9E%B6_%E1%9E%91%E1%9E%B8%E1%9F%A1%E1%9F%A2%E1%9E%98%E1%9F%81%E1%9E%9A%E1%9F%80%E1%9E%93_%E1%9E%9F%E1%9E%84%E1%9F%92%E1%9E%81%E1%9F%81%E1%9E%94_%E1%9E%93%E1%9E%B7%E1%9E%84_%E1%9E%9B%E1%9F%86%E1%9E%A0%E1%9E%B6%E1%9E%8F%E1%9F%8B_%E1%9E%82%E1%9F%86%E1%9E%9A%E1%9E%BC_%E1%9E%9F%E1%9E%98%E1%9F%92%E1%9E%9A%E1%9E%B6%E1%9E%94%E1%9F%8B_%E1%9E%87%E1%9E%B6_%E1%9E%87%E1%9F%86%E1%9E%93%E1%9E%BD%E1%9E%99_%E1%9E%9F%E1%9E%B7%E1%9E%9F%E1%9F%92%E1%9E%9F_%E1%9E%90%E1%9F%92%E1%9E%93%E1%9E%B6%E1%9E%80%E1%9F%8B_%E1%9E%91%E1%9E%B8%E1%9F%A1%E1%9F%A2.pdf)
