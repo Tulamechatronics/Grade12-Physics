@@ -13,6 +13,10 @@
 មាតិកា
 
 -----
+* ជំពូកទី 00\. Learning How to Learn
+    * 1.1\. How to Get the Most Out of Studying 
+    * 1.2\. Feynman on teaching Physics South-American
+
 
 * ជំពូកទី ០១\. ទែម៉ូឌីណាមិច
     * 1.1\. ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
