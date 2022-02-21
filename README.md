@@ -1,6 +1,6 @@
 
 <div id="myimages">
-<img src="https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Naval-Ravikant-Quote-Free-education-is-abundant-all-over-the-Internet.-It%E2%80%99s-the-desire-to-learn-that%E2%80%99s-scarce.jpg" width=40% height=40% />
+<img src="https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Naval-Ravikant-Quote-Free-education-is-abundant-all-over-the-Internet.-It%E2%80%99s-the-desire-to-learn-that%E2%80%99s-scarce.jpg" width=30% height=40% />
 <img src="https://github.com/Tulamechatronics/Grade12-Physics/blob/main/1_2R4A0--GdGdzjlRZEdOLmw.jpeg" width=40% height=60% />
 </div>
 
