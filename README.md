@@ -29,6 +29,10 @@
     
 -----
 
+1. First list item
+   - First nested list item
+   - Second nested list item
+
 # ជំពូកទី ១ ទែម៉ូឌីណាមិច
 
 ...មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
