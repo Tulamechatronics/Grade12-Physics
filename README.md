@@ -44,6 +44,8 @@
 ✅ [ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder](https://www.youtube.com/watch?v=aeaQpuYPsy8&t=82s) 
 
 ###      មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
+##### Topics Covered: 
+
 - [Macroscopic & Microscopic point of view](https://www.youtube.com/watch?v=eeu6OVNtjkc)
 - [សម្រាយបញ្ជាក់ PV = nRT](https://www.youtube.com/watch?v=voFVaeDZrjc&t=2s)
 - [មេរៀនទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns)
@@ -53,6 +55,8 @@
 
 
 ###       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
+##### Topics Covered: 
+ប្រព័ន្ធ ភាពនៃប្រព័ន្ធ ប្រព័ន្ធទែម៉ូឌីណាមិច ច្បាប់រក្សាថាមពល បម្រែបម្រួលថាមពលក្នុង កម្មន្ត ថាមពលកម្តៅ និង លំនាំផ្សេងៗ
 - [Phet Simulation: Energy Forms and Changes](https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html) ប្រើសម្រាប់ពន្យល់ពី ច្បាប់រក្សាថាមពល និង ការបម្លែងពីប្រភេទថាមពលមួយ ទៅជា ប្រភេទថាមពលមួយទៀត
 - [មេរៀន ច្បាប់ទី ១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamreiGv9yH8FF12aw9xcqCrZ)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
