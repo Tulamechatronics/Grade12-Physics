@@ -48,13 +48,8 @@
 - [សម្រាយបញ្ជាក់ PV = nRT](https://www.youtube.com/watch?v=voFVaeDZrjc&t=2s)
 - [មេរៀនទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns)
 - [Phet Simulation: gas-properties](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_en.html) ប្រើសម្រាប់ជំនួយក្នុងការពន្យល់ពី P~ T,N && P~ 1/V និង ថាមពលស៊ីនេទិចមធ្យម របស់ម៉ូលេគុល
-<ul>
-  <li> មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    <ul>
-    <li> [ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]() </li>
-    <li>2.2 Second Item Sub Item 2</li>
-    </ul>
-</ul>
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
 
 
 ###       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
