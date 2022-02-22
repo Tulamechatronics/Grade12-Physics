@@ -43,7 +43,7 @@
 ✅ [  First Law of Thermodynamics: History of the Concept of Energy](https://www.youtube.com/watch?v=a9c7u-FM-Wc&list=PLepnjl2hm9tHRMTdVyJ8t9HB6TZ63hFdU) <br>
 ✅ [ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder](https://www.youtube.com/watch?v=aeaQpuYPsy8&t=82s) 
 
-###      មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
+###      មេរៀនទី ០១ 🧯 ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន ⚛️
 **Topics Covered:** `ទំនាក់ទំនងរវាងមីក្រូស្កុបពិច និង ម៉ាក្រូស្កុបពិច` `ស្ថិតិ` `Assumptions Ideal Gas Law` `សម្ពាធក្នុងទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន` `សមីការឧស្ម័នបរិសុទ្ធ`  `តម្លៃមធ្យមនៃថាមពលស៊ីនេទិចម៉ូលេគុលនីមួយៗ` `ថាមពលស៊ីនេទិចសរុប` `ឬសការេនៃការេល្បឿនមធ្យម`
 
 - [Macroscopic & Microscopic point of view](https://www.youtube.com/watch?v=eeu6OVNtjkc)
@@ -54,7 +54,7 @@
     * [ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
 
 
-###       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
+###       មេរៀនទី ០២  ⚡ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច 🔋
 **Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
 <br>
 **Maths Prerequisites:** `ផលគុណស្កាលែ` `អាំងតេក្រាល` 
