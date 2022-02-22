@@ -17,7 +17,7 @@
 
 * ជំពូកទី ០០\. Learning How to Learn
     * 1.1\. How to Get the Most Out of Studying 
-    * 1.2\. Feynman on teaching Physics South-American
+    * 1.2\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
 * ជំពូកទី ០១\. ទែម៉ូឌីណាមិច
     * 1.1\. ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
