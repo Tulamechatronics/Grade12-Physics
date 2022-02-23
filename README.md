@@ -70,8 +70,8 @@
 
 ###       មេរៀនទី ០៣ ម៉ាស៊ីន
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-* [មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrWn6PHIUqPCSxhPfB8IELI)
-* [មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
+    * [មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrWn6PHIUqPCSxhPfB8IELI)
+    * [មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
 ---
 
 
