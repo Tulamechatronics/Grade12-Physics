@@ -15,7 +15,7 @@
 
 -----
 
-* \Learning How to Learn
+* Learning How to Learn
     * 1.1\. [How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
     * 1.2\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
@@ -31,12 +31,12 @@
     * L.7\. អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច
     * L.8\. អូតូអាំងឌុចស្យុង
     * L.9\. សៀគ្វីចរន្តឆ្លាស់
-* \វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ)
-    * \ ឆ្នាំ 2015
-    * \ ឆ្នាំ 2016
-    * \ ឆ្នាំ 2017
-    * \ ឆ្នាំ 2018
-    * \ ឆ្នាំ 2019
+* វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ)
+    * ឆ្នាំ 2015
+    * ឆ្នាំ 2016
+    * ឆ្នាំ 2017
+    * ឆ្នាំ 2018
+    * ឆ្នាំ 2019
       
 -----
 
