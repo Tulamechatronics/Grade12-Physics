@@ -39,9 +39,16 @@
     * ឆ្នាំ 2019
       
 -----
-
-
-
+# Learning How to Learn
+- [How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
+     * [វីដេអូភាគទី 1](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
+     * [វីដេអូភាគទី 2](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [សរុបខ្លឹមសារ]()
+     * [វីដេអូភាគទី 3](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [សរុបខ្លឹមសារ]()
+     * [វីដេអូភាគទី 4](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
+     * [វីដេអូភាគទី 5](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()
+- [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
+     
+-----
 # ជំពូកទី ១ 🌡️ ទែម៉ូឌីណាមិច 🔥
  > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
@@ -91,6 +98,8 @@
 ## 🎯សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប 📝 (ធានា បាន A+ រូបវិទ្យា 🏆 )
 [សៀវភៅសង្ខេបក្រសួងធ្លាប់ចេញប្រលង](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/%E1%9E%9A%E1%9E%BC%E1%9E%94%E1%9E%9C%E1%9E%B7%E1%9E%91%E1%9F%92%E1%9E%99%E1%9E%B6_%E1%9E%91%E1%9E%B8%E1%9F%A1%E1%9F%A2%E1%9E%98%E1%9F%81%E1%9E%9A%E1%9F%80%E1%9E%93_%E1%9E%9F%E1%9E%84%E1%9F%92%E1%9E%81%E1%9F%81%E1%9E%94_%E1%9E%93%E1%9E%B7%E1%9E%84_%E1%9E%9B%E1%9F%86%E1%9E%A0%E1%9E%B6%E1%9E%8F%E1%9F%8B_%E1%9E%82%E1%9F%86%E1%9E%9A%E1%9E%BC_%E1%9E%9F%E1%9E%98%E1%9F%92%E1%9E%9A%E1%9E%B6%E1%9E%94%E1%9F%8B_%E1%9E%87%E1%9E%B6_%E1%9E%87%E1%9F%86%E1%9E%93%E1%9E%BD%E1%9E%99_%E1%9E%9F%E1%9E%B7%E1%9E%9F%E1%9F%92%E1%9E%9F_%E1%9E%90%E1%9F%92%E1%9E%93%E1%9E%B6%E1%9E%80%E1%9F%8B_%E1%9E%91%E1%9E%B8%E1%9F%A1%E1%9F%A2.pdf)
 
+### Notion: 
+-----
 #### Credit:
 - https://emojicombos.com/grade
 - https://meta.stackexchange.com/questions/85474/how-to-write-nested-numbered-lists
