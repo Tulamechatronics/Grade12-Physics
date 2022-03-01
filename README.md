@@ -17,7 +17,8 @@
 
 * Learning How to Learn
     * 1.1\. [How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
-    * 1.2\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
+    * 1.2\. How to Study Math
+    * 1.3\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
 * ជំពូកទី ០១\. ទែម៉ូឌីណាមិច
     * L.1\. ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
@@ -46,6 +47,15 @@
      * [វីដេអូភាគទី 3](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [សរុបខ្លឹមសារ]()
      * [វីដេអូភាគទី 4](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
      * [វីដេអូភាគទី 5](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()
+- [How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
+     * [General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
+     * [Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
+     * [Getting Help](https://tutorial.math.lamar.edu/Extras/StudyMath/GettingHelp.aspx)
+     * [Homework](https://tutorial.math.lamar.edu/Extras/StudyMath/Homework.aspx)
+     * [Problem Solving](https://tutorial.math.lamar.edu/Extras/StudyMath/ProblemSolving.aspx)
+     * [Studying For Exams](https://tutorial.math.lamar.edu/Extras/StudyMath/StudyForExam.aspx)
+     * [Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
+     * [Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)
 - [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
      
 -----
