@@ -72,8 +72,8 @@
 - [Macroscopic & Microscopic point of view](https://www.youtube.com/watch?v=eeu6OVNtjkc)
 - [សម្រាយបញ្ជាក់ PV = nRT](https://www.youtube.com/watch?v=voFVaeDZrjc&t=2s)
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎥មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://youtube.com/playlist?list=PL2G_O4s8LpX-srF-aHX8k2O_Dg3LqQ9jm)
-    * [🎥មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns) 
+    * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://youtube.com/playlist?list=PL2G_O4s8LpX-srF-aHX8k2O_Dg3LqQ9jm)
+    * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns) 
 - [Phet Simulation: gas-properties](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_en.html) ប្រើសម្រាប់ជំនួយក្នុងការពន្យល់ពី P~ T,N && P~ 1/V និង ថាមពលស៊ីនេទិចមធ្យម របស់ម៉ូលេគុល
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
@@ -85,20 +85,20 @@
 **Maths Prerequisites:** `ផលគុណស្កាលែ` `អាំងតេក្រាល` 
 - [Phet Simulation: Energy Forms and Changes](https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html) ប្រើសម្រាប់ពន្យល់ពី ច្បាប់រក្សាថាមពល និង ការបម្លែងពីប្រភេទថាមពលមួយ ទៅជា ប្រភេទថាមពលមួយទៀត
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎥មេរៀនច្បាប់ទី ០១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX_3RY8_aWQi47ukyJsopRSE)
-    * [🎥មេរៀន ច្បាប់ទី ១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamreiGv9yH8FF12aw9xcqCrZ)
+    * [🎬 មេរៀនច្បាប់ទី ០១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX_3RY8_aWQi47ukyJsopRSE)
+    * [🎬 មេរៀន ច្បាប់ទី ១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamreiGv9yH8FF12aw9xcqCrZ)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
 
 ###       មេរៀនទី ០៣ ម៉ាស៊ីន
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎥មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrWn6PHIUqPCSxhPfB8IELI)
-    * [🎥មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
+    * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrWn6PHIUqPCSxhPfB8IELI)
+    * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
 ---
 
 
-## វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ)
+## 🎬 វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2) 
 - **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4)
 - **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=BICz-zBGdNs) && [ភាគទី ០២](https://www.youtube.com/watch?v=GD5aZV60qm4)
