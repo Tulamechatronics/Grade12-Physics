@@ -112,10 +112,10 @@
 -----
 
 
-## Contributors
+## 🙏🏻 Contributors 🙏🏻
 Thanks to all the contributors who shared resources in building this repo.
+
+
 #### Credit:
-- https://emojicombos.com/grade
-- https://meta.stackexchange.com/questions/85474/how-to-write-nested-numbered-lists
 - https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE
-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
