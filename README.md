@@ -110,6 +110,10 @@
 
 ### Notion: 
 -----
+
+
+## Contributors
+Thanks to all the contributors who shared resources in building this repo.
 #### Credit:
 - https://emojicombos.com/grade
 - https://meta.stackexchange.com/questions/85474/how-to-write-nested-numbered-lists
