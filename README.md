@@ -92,6 +92,13 @@
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
 
 ###       មេរៀនទី ០៣ ម៉ាស៊ីន
+**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+<br>
+- [Simulation វដ្តម៉ាស៊ីនកាកណូ]()
+- មូលហេតុដែលម៉ាស៊ីនសាំងប្រើ បូស៊ី ហើយ ម៉ាស៊ីនម៉ាស៊ូតប្រើ ប៉ិច [ដុតសាំង និង ម៉ាស៊ូតក្នុងខ្យល់](https://www.youtube.com/watch?v=7soVqyGq4i4&t=81s) | [ភាពខុសគ្នានៃច្រវ៉ាក់អ៊ីដ្រូកាបួ របស់ សាំង និង ម៉ាស៊ូត](https://www.youtube.com/watch?v=rlK7JIAz9WY&t=214s)
+- [ដំណើរការរបស់ម៉ាស៊ីនសាំង](https://www.youtube.com/watch?v=_QXH5MaoKEE&t=1s)
+- [Playlist ដំណើរការរបស់ម៉ាស៊ីនម៉ាស៊ូត](https://www.youtube.com/playlist?list=PLy4d0AptRUmLjsfuuM-cvdwjdSH0qy5jg)
+- [Stirling Engine]()
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrWn6PHIUqPCSxhPfB8IELI)
     * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
