@@ -85,7 +85,7 @@
 **Maths Prerequisites:** `ផលគុណស្កាលែ` `អាំងតេក្រាល` 
 - [Phet Simulation: Energy Forms and Changes](https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html) ប្រើសម្រាប់ពន្យល់ពី ច្បាប់រក្សាថាមពល និង ការបម្លែងពីប្រភេទថាមពលមួយ ទៅជា ប្រភេទថាមពលមួយទៀត
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 មេរៀនច្បាប់ទី ០១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX_3RY8_aWQi47ukyJsopRSE)
+    * [🎬 មេរៀន ច្បាប់ទី ១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX_3RY8_aWQi47ukyJsopRSE)
     * [🎬 មេរៀន ច្បាប់ទី ១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamreiGv9yH8FF12aw9xcqCrZ)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
