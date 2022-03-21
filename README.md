@@ -107,7 +107,7 @@
 ---
 
 
-## 🎬 វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬
+## វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ)
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2) 
 - **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4)
 - **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=BICz-zBGdNs) && [ភាគទី ០២](https://www.youtube.com/watch?v=GD5aZV60qm4)
