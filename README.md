@@ -32,7 +32,7 @@
     * L.7\. អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច
     * L.8\. អូតូអាំងឌុចស្យុង
     * L.9\. សៀគ្វីចរន្តឆ្លាស់
-* [វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ)](#វីដេអូ-អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់)
+* [ 🎬 វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬](#វីដេអូ-អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់)
     * ឆ្នាំ 2015
     * ឆ្នាំ 2016
     * ឆ្នាំ 2017
@@ -142,16 +142,18 @@
 - [Phet](https://phet.colorado.edu/)
 
 -----
-
-## សេចក្តីថ្លែងអំណរគុណ
-Thanks to all the contributors who shared resources in building this repo.
-
 ## Licence:
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 
 ## Inspired to do this repo by:
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
 - [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
 - [OSSU curriculum is a complete education in computer science](https://github.com/ossu/computer-science?fbclid=IwAR0JMLQdH-XNgbeCEtEmrwQVG2YkWY2-x_EoCgaK5-TuhhnwXyQIyV1Q-Yw#core-cs)
+
+## សេចក្តីថ្លែងអំណរគុណ
+Thanks to all the contributors who shared resources in building this repo.
+
+
+
+
 
