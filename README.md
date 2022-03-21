@@ -137,8 +137,9 @@
 
 -----
 
-## ស្នាដៃសិស្សសង្ខេបដោយប្រើ Notion: 
-
+#  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
+- [Physlets](https://www.compadre.org/Physlets/)
+- [Phet](https://phet.colorado.edu/)
 
 -----
 
