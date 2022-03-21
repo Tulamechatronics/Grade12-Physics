@@ -9,7 +9,7 @@
 
 -----
 
-# Grade12-Physics
+# Grade12-Physics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 សារបណ្ណ
 
@@ -148,4 +148,5 @@ Thanks to all the contributors who shared resources in building this repo.
 ## Inspired to do this reop by:
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
 - [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
+- [OSSU curriculum is a complete education in computer science](https://github.com/ossu/computer-science?fbclid=IwAR0JMLQdH-XNgbeCEtEmrwQVG2YkWY2-x_EoCgaK5-TuhhnwXyQIyV1Q-Yw#core-cs)
 
