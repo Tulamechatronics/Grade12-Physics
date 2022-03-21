@@ -98,7 +98,7 @@
 ###       មេរៀនទី ០៣ ម៉ាស៊ីន
 **Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
 <br>
-- [Simulation វដ្តម៉ាស៊ីនកាកណូ]()
+- [Simulation វដ្តម៉ាស៊ីនកាកណូ](https://www.compadre.org/Physlets/thermodynamics/illustration21_1.cfm)
 - មូលហេតុដែលម៉ាស៊ីនសាំងប្រើ បូស៊ី ហើយ ម៉ាស៊ីនម៉ាស៊ូតប្រើ ប៉ិច
      * [ដុតសាំង និង ម៉ាស៊ូតក្នុងខ្យល់](https://www.youtube.com/watch?v=7soVqyGq4i4&t=81s) 
      * [ភាពខុសគ្នានៃច្រវ៉ាក់អ៊ីដ្រូកាបួ របស់ សាំង និង ម៉ាស៊ូត](https://www.youtube.com/watch?v=rlK7JIAz9WY&t=214s)
