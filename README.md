@@ -21,7 +21,7 @@
     * 1.3\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
 * ជំពូកទី ០១\. [ទែម៉ូឌីណាមិច](#ជំពូកទី-១-ទែម៉ូឌីណាមិច)
-    * L.1\. ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
+    * L.1\. [ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន](#មេរៀនទី-០១-ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន)
     * L.2\. ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
     * L.3\. ម៉ាស៊ីន
 * ជំពូកទី ០២\. រលក 
