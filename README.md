@@ -15,9 +15,9 @@
 
 -----
 
-* Learning How to Learn
+* [Learning How to Learn](#Learning-How-to-Learn)
     * 1.1\. [How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
-    * 1.2\. [How to Study Math](#How-to-Study-Math)
+    * 1.2\.  How to Study Math
     * 1.3\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
 * ជំពូកទី ០១\. [ទែម៉ូឌីណាមិច](#ជំពូកទី-១-ទែម៉ូឌីណាមិច)
