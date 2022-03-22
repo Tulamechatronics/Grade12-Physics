@@ -110,8 +110,23 @@
     * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1Y0btpKE2TUjBosqP90CN9EQARI4u11aP/view?usp=sharing)
----
+-----
+# ជំពូក ២ រលក
 
+### មេរៀនទី 04 គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ
+**Topics Covered:**  `ខួប` `ប្រេកង់` `ល្បឿនមុំ` `អំព្លីទុត` `ផាស` `គោលការណ៍តម្រួត` `រលកជញ្ជ្រំ` `រេ៉សូណង់` 
+<br>
+**Maths Prerequisites:** `ត្រីកោណមាត្រ`
+- [Simulation រកតម្លៃខួប ប្រេកង់ និង រលកជញ្ជ្រំ]()
+- បាតុភូតរ៉េសូណង់
+    * [Video-1]()
+    * [Video-2]()
+    * [Video-3]()
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist]()
+    * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
