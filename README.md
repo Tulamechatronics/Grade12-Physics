@@ -32,7 +32,7 @@
     * L.7\. អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច
     * L.8\. អូតូអាំងឌុចស្យុង
     * L.9\. សៀគ្វីចរន្តឆ្លាស់
-* [ 🎬 វីដេអូ/pdf អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬](#វីដេអូ-/-pdf-អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់)
+* [ 🎬 វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬](#វីដេអូ-អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់)
     * ឆ្នាំ 2015
     * ឆ្នាំ 2016
     * ឆ្នាំ 2017
@@ -111,12 +111,12 @@
 ---
 
 
-# វីដេអូ/pdf អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
-- **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2) | [pdf វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2015]()
-- **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4) | [pdf វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2016]()
-- **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=BICz-zBGdNs) && [ភាគទី ០២](https://www.youtube.com/watch?v=GD5aZV60qm4) | [pdf វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2017]()
-- **2018**  [ភាគទី ០១](https://www.youtube.com/watch?v=SwXULemlvzQ&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=7) && [ភាគទី ០២](https://www.youtube.com/watch?v=HAcV2UpRrqI&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=8) | [pdf វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2018]()
-- **2019**  [ភាគទី ០១](https://www.youtube.com/watch?v=z0sjGGEBdyU&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=9) && [ភាគទី ០២](https://www.youtube.com/watch?v=18M_o-1l3Ok&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=10) | [pdf វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2019]()
+# វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
+- **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
+- **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4) 
+- **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=BICz-zBGdNs) && [ភាគទី ០២](https://www.youtube.com/watch?v=GD5aZV60qm4) 
+- **2018**  [ភាគទី ០១](https://www.youtube.com/watch?v=SwXULemlvzQ&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=7) && [ភាគទី ០២](https://www.youtube.com/watch?v=HAcV2UpRrqI&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=8) 
+- **2019**  [ភាគទី ០១](https://www.youtube.com/watch?v=z0sjGGEBdyU&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=9) && [ភាគទី ០២](https://www.youtube.com/watch?v=18M_o-1l3Ok&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=10) 
 
 -----
 
@@ -129,6 +129,15 @@
 #### វិញ្ញាសារបាក់ឌុប ឆ្នាំ 2011 - 2019
 
 - [វិញ្ញាសាររូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019](https://drive.google.com/file/d/1tZZrikQ75AWwEOJITZV5ZFS3p9rQm85o/view?usp=sharing)
+
+#### វិញ្ញាសារបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2019
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(I)]()
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(II)]()
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2015]()
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2016]()
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2017]()
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2018]()
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2019]()
 
 #### រូបមន្តសង្ខេប 
 
