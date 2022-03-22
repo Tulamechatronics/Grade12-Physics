@@ -11,6 +11,7 @@
 
 # Grade12-Physics      [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
 សារបណ្ណ
 
 -----
@@ -45,6 +46,8 @@
       
 -----
 # Learning How to Learn
+> Do 1% effort for 100 days - Prof Ryan O'Donnell
+
 - [How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
      * [វីដេអូភាគទី 1](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
      * [វីដេអូភាគទី 2](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [សរុបខ្លឹមសារ]()
