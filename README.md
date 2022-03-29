@@ -131,6 +131,8 @@
     * [រលកជញ្ជ្រំ MIT Walter lewin](https://www.youtube.com/watch?v=D_RIzl1uCxY&t=287s) | [សង់ក្រាបបញ្ជាក់ទិសដៅបន្ទាត់ទៅឆ្វេង ឬ ស្តាំ](https://www.desmos.com/calculator)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+
 
 -----
 # ជំពូក ០៣ អគ្គិសនី និង ម៉ាញេទិច
@@ -140,10 +142,30 @@
 > The value in teaching science is to teach how things are found out.  The value of questioning, the value of free ideas – not only for the development of science, but the value of free ideas in every field – becomes apparent.  Science is a way to teach how something gets to be known, what is not known, to what extent things are known (for nothing is known absolutely), how to handle doubt and uncertainty, what the rules of evidence are, how to think about things so that judgments can be made, how to distinguish truth from fraud, and from show.  These are certainly important secondary yields of teaching science, and physics in particular. _ Prof. Feynman
 
 <br>
+បន្ទាប់ពីអាន Quotes ទាំងពីរខាងលើ អ្នកគួរ ចំណាយពេល មើលវីដេអូទាំង ៣ ខាងក្រោមនេះ ព្រោះវាបានក្តោប ខ្លឹមសារ នៃជំពូកទី ០៣ ទាំងមូល។
+<br>
 
 - [🎬 The Story of Electricity Part 1-3 | Jim Al-Khalili_BBC](https://www.youtube.com/watch?v=Gtp51eZkwoI&t=8024s)
 - [🎬 The Electric Boy](https://drive.google.com/file/d/14snADwa6BmFObCoDQcPV7JpbMKbP0pNr/view?usp=sharing)
 - [🎬 Nikola Tesla vs Thomas Edison](https://www.youtube.com/watch?v=HjiX1RNmivc)
+
+###       មេរៀនទី ០៦ ដែន និង កម្លាំងម៉ាញេទិច
+**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+<br>
+**Maths Prerequisites:** `ផលគុណស្កាលែ` `អាំងតេក្រាល` 
+
+###       មេរៀនទី ០៧ អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច
+**Topics Covered:**  
+<br>
+**Maths Prerequisites:** 
+###       មេរៀនទី ០៨ អូតូអាំងឌុចស្យុង
+**Topics Covered:** 
+<br>
+**Maths Prerequisites:** 
+###       មេរៀនទី ០៩ សៀគ្វីចរន្តឆ្លាស់
+**Topics Covered:**  
+<br>
+**Maths Prerequisites:** 
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
@@ -178,9 +200,6 @@
 - [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1_l9WZjCZM5bM9g02CGVzHNDURAKsguC6/view?usp=sharing)
 
 #### វិញ្ញាសារត្រៀម (optional)
-
-
-#### លំហាត់ចំរុះ (optional)
 
 -----
 
