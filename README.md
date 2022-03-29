@@ -120,7 +120,7 @@
 **Topics Covered:**  `ខួប` `ប្រេកង់` `ល្បឿនមុំ` `អំព្លីទុត` `ផាស` `គោលការណ៍តម្រួត` `រលកជញ្ជ្រំ` `រ៉េសូណង់` 
 <br>
 **Maths Prerequisites:** `ត្រីកោណមាត្រ`
-- [Simulation រកតម្លៃខួប ប្រេកង់ និង រលកជញ្ជ្រំ]()
+- [Simulation រកតម្លៃខួប ប្រេកង់ និង រលកជញ្ជ្រំ](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html)
 - បាតុភូតរ៉េសូណង់
     * [Video-1]()
     * [Video-2]()
@@ -128,20 +128,21 @@
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampSwS8OuG3nSRQocemPc7dG)
     * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX8b4CBqxRnmfa2q1QvhlLyu)
+    * [រលកជញ្ជ្រំ MIT Walter lewin](https://www.youtube.com/watch?v=D_RIzl1uCxY&t=287s) | [សង់ក្រាបបញ្ជាក់ទិសដៅបន្ទាត់ទៅឆ្វេង ឬ ស្តាំ](https://www.desmos.com/calculator)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
 
 -----
 # ជំពូក ០៣ អគ្គិសនី និង ម៉ាញេទិច
-> Science is an activity of men; to many men it is a great pleasure and it should not be denied to the people of a large part of the world simply because of a fault or lack in the educational system.  In other words, one of the reasons for teaching science is to make scientists who will not just contribute to the development of industry but also contribute to the development of knowledge, joining others in this great adventure of our times, and, of course, obtaining enormous pleasure in doing so.
+> Science is an activity of men; to many men it is a great pleasure and it should not be denied to the people of a large part of the world simply because of a fault or lack in the educational system.  In other words, one of the reasons for teaching science is to make scientists who will not just contribute to the development of industry but also contribute to the development of knowledge, joining others in this great adventure of our times, and, of course, obtaining enormous pleasure in doing so. _ Prof. Feynman
 <br>
 
-> The value in teaching science is to teach how things are found out.  The value of questioning, the value of free ideas – not only for the development of science, but the value of free ideas in every field – becomes apparent.  Science is a way to teach how something gets to be known, what is not known, to what extent things are known (for nothing is known absolutely), how to handle doubt and uncertainty, what the rules of evidence are, how to think about things so that judgments can be made, how to distinguish truth from fraud, and from show.  These are certainly important secondary yields of teaching science, and physics in particular.
+> The value in teaching science is to teach how things are found out.  The value of questioning, the value of free ideas – not only for the development of science, but the value of free ideas in every field – becomes apparent.  Science is a way to teach how something gets to be known, what is not known, to what extent things are known (for nothing is known absolutely), how to handle doubt and uncertainty, what the rules of evidence are, how to think about things so that judgments can be made, how to distinguish truth from fraud, and from show.  These are certainly important secondary yields of teaching science, and physics in particular. _ Prof. Feynman
 
 <br>
 
 - [🎬 The Story of Electricity Part 1-3 | Jim Al-Khalili_BBC](https://www.youtube.com/watch?v=Gtp51eZkwoI&t=8024s)
-- [🎬 The Electric Boy]()
+- [🎬 The Electric Boy](https://drive.google.com/file/d/14snADwa6BmFObCoDQcPV7JpbMKbP0pNr/view?usp=sharing)
 - [🎬 Nikola Tesla vs Thomas Edison](https://www.youtube.com/watch?v=HjiX1RNmivc)
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
