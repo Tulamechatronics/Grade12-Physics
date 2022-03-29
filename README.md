@@ -131,6 +131,13 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
 
+-----
+# ជំពូក ០៣ អគ្គិសនី និង ម៉ាញេទិច
+> Insert Feynman Quote Here !!!
+[🎬 The Story of Electricity -- Jim Al-Khalili BBC](https://www.youtube.com/watch?v=Gtp51eZkwoI&t=8024s)
+[🎬]()
+[🎬]()
+
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
 - **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4) 
