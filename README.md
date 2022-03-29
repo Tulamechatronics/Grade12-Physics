@@ -131,7 +131,7 @@
     * [រលកជញ្ជ្រំ MIT Walter lewin](https://www.youtube.com/watch?v=D_RIzl1uCxY&t=287s) | [សង់ក្រាបបញ្ជាក់ទិសដៅបន្ទាត់ទៅឆ្វេង ឬ ស្តាំ](https://www.desmos.com/calculator)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-]()
 
 
 -----
@@ -150,9 +150,9 @@
 - [🎬 Nikola Tesla vs Thomas Edison](https://www.youtube.com/watch?v=HjiX1RNmivc)
 
 ###       មេរៀនទី ០៦ ដែន និង កម្លាំងម៉ាញេទិច
-**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+**Topics Covered:**  
 <br>
-**Maths Prerequisites:** `ផលគុណស្កាលែ` `អាំងតេក្រាល` 
+**Maths Prerequisites:**  
 
 ###       មេរៀនទី ០៧ អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច
 **Topics Covered:**  
