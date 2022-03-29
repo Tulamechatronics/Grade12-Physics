@@ -140,9 +140,9 @@
 
 <br>
 
-- [🎬 The Story of Electricity -- Jim Al-Khalili BBC](https://www.youtube.com/watch?v=Gtp51eZkwoI&t=8024s)
-- [🎬]()
-- [🎬]()
+- [🎬 The Story of Electricity Part 1-3 | Jim Al-Khalili_BBC](https://www.youtube.com/watch?v=Gtp51eZkwoI&t=8024s)
+- [🎬 The Electric Boy]()
+- [🎬 Nikola Tesla vs Thomas Edison](https://www.youtube.com/watch?v=HjiX1RNmivc)
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
