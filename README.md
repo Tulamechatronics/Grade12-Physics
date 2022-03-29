@@ -136,13 +136,13 @@
 > Science is an activity of men; to many men it is a great pleasure and it should not be denied to the people of a large part of the world simply because of a fault or lack in the educational system.  In other words, one of the reasons for teaching science is to make scientists who will not just contribute to the development of industry but also contribute to the development of knowledge, joining others in this great adventure of our times, and, of course, obtaining enormous pleasure in doing so.
 <br>
 
-> A fourth value in teaching science is to teach how things are found out.  The value of questioning, the value of free ideas – not only for the development of science, but the value of free ideas in every field – becomes apparent.  Science is a way to teach how something gets to be known, what is not known, to what extent things are known (for nothing is known absolutely), how to handle doubt and uncertainty, what the rules of evidence are, how to think about things so that judgments can be made, how to distinguish truth from fraud, and from show.  These are certainly important secondary yields of teaching science, and physics in particular.
+> The value in teaching science is to teach how things are found out.  The value of questioning, the value of free ideas – not only for the development of science, but the value of free ideas in every field – becomes apparent.  Science is a way to teach how something gets to be known, what is not known, to what extent things are known (for nothing is known absolutely), how to handle doubt and uncertainty, what the rules of evidence are, how to think about things so that judgments can be made, how to distinguish truth from fraud, and from show.  These are certainly important secondary yields of teaching science, and physics in particular.
 
 <br>
 
-[🎬 The Story of Electricity -- Jim Al-Khalili BBC](https://www.youtube.com/watch?v=Gtp51eZkwoI&t=8024s)
-[🎬]()
-[🎬]()
+- [🎬 The Story of Electricity -- Jim Al-Khalili BBC](https://www.youtube.com/watch?v=Gtp51eZkwoI&t=8024s)
+- [🎬]()
+- [🎬]()
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
