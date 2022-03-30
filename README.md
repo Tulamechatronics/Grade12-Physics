@@ -231,8 +231,6 @@
 - [Phet](https://phet.colorado.edu/)
 
 -----
-## Licence:
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Inspired to do this repo by:
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
@@ -242,7 +240,6 @@
 
 ## សេចក្តីថ្លែងអំណរគុណ
 Thanks to all the contributors who shared resources in building this repo.
-
 
 -----
 
