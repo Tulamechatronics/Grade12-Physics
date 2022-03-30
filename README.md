@@ -227,10 +227,14 @@
 
 -----
 
-#  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
+#  Sources/Simulations support Teaching & Learning: 
+### 1. Simulations:
 - [Physlets](https://www.compadre.org/Physlets/)
 - [Phet](https://phet.colorado.edu/)
-
+- [Open Door Web Site](http://www.saburchill.com/physics/physics_hp.html)
+- [oPhysics: Interactive Physics Simulations](https://ophysics.com/)
+### 2. Course Videos (*Free) :
+- [Yau-Jong Twu](https://www.youtube.com/user/onlearningcurve/playlists)
 -----
 
 ## Inspired to do this repo by:
