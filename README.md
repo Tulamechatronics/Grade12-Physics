@@ -84,6 +84,7 @@
 - [Phet Simulation: gas-properties](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_en.html) ប្រើសម្រាប់ជំនួយក្នុងការពន្យល់ពី P~ T,N && P~ 1/V និង ថាមពលស៊ីនេទិចមធ្យម របស់ម៉ូលេគុល
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
+    * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1KtmRV11_VzI3BhmeV8XeF1viH0EcI5tK/view?usp=sharing)
 
 
 ###       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
@@ -97,6 +98,7 @@
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1ULH9nNJxyCYL36P7nBlGVl4VydcCl0yL/view?usp=sharing)
 
 ###       មេរៀនទី ០៣ ម៉ាស៊ីន
 **Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
@@ -113,6 +115,7 @@
     * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1Y0btpKE2TUjBosqP90CN9EQARI4u11aP/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1bx0dFC-jLGTfh7XcrsqfvNlC-C6yh3Bf/view?usp=sharing)
 -----
 # ជំពូក ០២ រលក
 
@@ -131,7 +134,7 @@
     * [រលកជញ្ជ្រំ MIT Walter lewin](https://www.youtube.com/watch?v=D_RIzl1uCxY&t=287s) | [សង់ក្រាបបញ្ជាក់ទិសដៅបន្ទាត់ទៅឆ្វេង ឬ ស្តាំ](https://www.desmos.com/calculator)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/16vBvvsfQ1kZKWKXK6w_ccUbXs35IewXo/view?usp=sharing)
 
 
 -----
@@ -156,6 +159,7 @@
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1pfA-OFN-ctimm8xLD_f-plxpYViDaHFs/view?usp=sharing) 
+    * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1FlB_3yqyzUFDLKkwbj4zy30M-MgKmDiG/view?usp=sharing)
 
 ###       មេរៀនទី ០៧ អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច
 **Topics Covered:**  
@@ -164,6 +168,7 @@
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/135FAan811rhnhNzSLGBqLdlJDgLepipL/view?usp=sharing) 
+    * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1b32QJRBG5pKKnu1zPK1NhK3Nqga1fLzc/view?usp=sharing)
 ###       មេរៀនទី ០៨ អូតូអាំងឌុចស្យុង
 **Topics Covered:** 
 <br>
@@ -171,13 +176,18 @@
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1LA5FySJcTyFWMMfaUBov_yh5kDz4EzSN/view?usp=sharing) 
+    * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1kwG4guILBiZP-8n5UjXZpEyZd5n3jplW/view?usp=sharing)
 ###       មេរៀនទី ០៩ សៀគ្វីចរន្តឆ្លាស់
 **Topics Covered:**  
 <br>
 **Maths Prerequisites:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1t7OrxBzJAomVYFssHL4EPwbMkAbz6eX6/view?usp=sharing) 
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1t7OrxBzJAomVYFssHL4EPwbMkAbz6eX6/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1qWLyFefMmK8TV0uaIqagqQw0OZP7FJNg/view?usp=sharing)
+
+-----
+
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
