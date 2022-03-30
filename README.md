@@ -153,19 +153,31 @@
 **Topics Covered:**  
 <br>
 **Maths Prerequisites:**  
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1pfA-OFN-ctimm8xLD_f-plxpYViDaHFs/view?usp=sharing) 
 
 ###       មេរៀនទី ០៧ អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច
 **Topics Covered:**  
 <br>
 **Maths Prerequisites:** 
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/135FAan811rhnhNzSLGBqLdlJDgLepipL/view?usp=sharing) 
 ###       មេរៀនទី ០៨ អូតូអាំងឌុចស្យុង
 **Topics Covered:** 
 <br>
 **Maths Prerequisites:** 
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1LA5FySJcTyFWMMfaUBov_yh5kDz4EzSN/view?usp=sharing) 
 ###       មេរៀនទី ០៩ សៀគ្វីចរន្តឆ្លាស់
 **Topics Covered:**  
 <br>
 **Maths Prerequisites:** 
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1t7OrxBzJAomVYFssHL4EPwbMkAbz6eX6/view?usp=sharing) 
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
