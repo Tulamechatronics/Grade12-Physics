@@ -66,6 +66,10 @@
 - [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
      
 -----
+# Course Syllabus
+- [Physics Grade 12 ](https://docs.google.com/document/d/1iw9oEosUIuEuoWzSpInsq2Ml6TVzcU8F2G_UIqsFcYQ/edit?usp=sharing)
+
+
 # ជំពូកទី ០១ ទែម៉ូឌីណាមិច
  > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
