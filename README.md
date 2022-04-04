@@ -70,7 +70,9 @@
 # 📋 Course Syllabus 📅
 <br>
 <br>
+
 - [Physics Grade 12 ](https://docs.google.com/document/d/1iw9oEosUIuEuoWzSpInsq2Ml6TVzcU8F2G_UIqsFcYQ/edit?usp=sharing)
+
 <br>
 <br>
 
