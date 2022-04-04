@@ -194,7 +194,7 @@
 <br>
 **Maths Prerequisites:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrD_Pun1npHSSxA7MQBH-k0)
+    * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampU3zNqkx32bCtzb6q_vQ7F)
     * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1t7OrxBzJAomVYFssHL4EPwbMkAbz6eX6/view?usp=sharing)
