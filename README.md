@@ -39,6 +39,7 @@
     * ឆ្នាំ 2017
     * ឆ្នាំ 2018
     * ឆ្នាំ 2019
+    * ឆ្នាំ 2021
 * ebook
     * សៀវភៅសង្ខេបក្រសួងធ្លាប់ចេញប្រលង
     * វិញ្ញាសាររូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019
@@ -158,10 +159,12 @@
 - [🎬 Nikola Tesla vs Thomas Edison](https://www.youtube.com/watch?v=HjiX1RNmivc)
 
 ###       មេរៀនទី ០៦ ដែន និង កម្លាំងម៉ាញេទិច
-**Topics Covered:**  
+**Topics Covered:**  `មេដែក` `ដែនម៉ាញេទិច` `ដែនម៉ាញេទិចនៃចរន្តត្រង់` `ដែនម៉ាញេទិចនៃចរន្តវង់` `ដែនម៉ាញេទិចនៃសូលេណូអ៊ីត` `កម្លាំងអេឡិចត្រូម៉ាញេទិច` `រូបមន្តឡូរុិន` `បាញ់ផង់ចូលដែនម៉ាញេទិចឯកសណ្ឋាន` `ស្បុិចក្រាប` 
 <br>
 **Maths Prerequisites:**  
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampRzExU5QnSeaFeN2VLCgsD)
+    * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1pfA-OFN-ctimm8xLD_f-plxpYViDaHFs/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1FlB_3yqyzUFDLKkwbj4zy30M-MgKmDiG/view?usp=sharing)
@@ -171,6 +174,8 @@
 <br>
 **Maths Prerequisites:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 មេរៀន អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrAOXvtDbJ2NLCWLEZFY_Q6)
+    * [🎬 មេរៀន អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/135FAan811rhnhNzSLGBqLdlJDgLepipL/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1b32QJRBG5pKKnu1zPK1NhK3Nqga1fLzc/view?usp=sharing)
@@ -179,6 +184,8 @@
 <br>
 **Maths Prerequisites:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 មេរៀន អូតូអាំងឌុចស្យុង បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrD_Pun1npHSSxA7MQBH-k0)
+    * [🎬 មេរៀន អូតូអាំងឌុចស្យុង បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1LA5FySJcTyFWMMfaUBov_yh5kDz4EzSN/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1kwG4guILBiZP-8n5UjXZpEyZd5n3jplW/view?usp=sharing)
@@ -187,6 +194,8 @@
 <br>
 **Maths Prerequisites:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrD_Pun1npHSSxA7MQBH-k0)
+    * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1t7OrxBzJAomVYFssHL4EPwbMkAbz6eX6/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1qWLyFefMmK8TV0uaIqagqQw0OZP7FJNg/view?usp=sharing)
