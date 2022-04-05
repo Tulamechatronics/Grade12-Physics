@@ -7,6 +7,7 @@
 </div>
 <br>
 <br> 
+
 > If you work in education, the inconvenient truth you have to face is that a self-motivated student who knows how to use the internet doesn't need a full-time teacher. _David Perell
 
 -----
