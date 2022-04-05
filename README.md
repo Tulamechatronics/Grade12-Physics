@@ -250,8 +250,7 @@
 #  Sources/Simulations support Teaching & Learning: 
 ### 1. Simulations:
 - [Physlets](https://www.compadre.org/Physlets/)
-- [Phet](https://phet.colorado.edu/)
-- [Open Door Web Site](http://www.saburchill.com/physics/physics_hp.html)
+- [Phet](https://phet.colorado.edu/) 
 - [oPhysics: Interactive Physics Simulations](https://ophysics.com/)
 ### 2. Course Videos/Contents (*Free) :
 - [Hyperphysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html)
