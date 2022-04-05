@@ -260,7 +260,7 @@
 - [Yau-Jong Twu](https://www.youtube.com/user/onlearningcurve/playlists)
 
 **ឆ្នាំទី_១ និង ទី_២**
-- [Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen/featured)
+- [Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen/featured) គាត់បង្រៀនគ្រប់ប្រធានបទ សម្រាប់រូបវិទ្យា ឆ្នាំទី ១ និង ទី ២។
 -----
 
 ## Inspired to do this repo by:
