@@ -5,7 +5,9 @@
 <img src="https://github.com/Tulamechatronics/Grade12-Physics/blob/main/1_2R4A0--GdGdzjlRZEdOLmw.jpeg" width=32% height=40% />
 <img src ="https://github.com/Tulamechatronics/Grade12-Physics/blob/main/japan%20hero.jpg" width=30% height=40%>
 </div>
-
+<br>
+<br> 
+> If you work in education, the inconvenient truth you have to face is that a self-motivated student who knows how to use the internet doesn't need a full-time teacher. _David Perell
 
 -----
 
