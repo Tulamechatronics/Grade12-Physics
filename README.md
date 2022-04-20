@@ -214,15 +214,6 @@
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 
-| Weekly Slides | Status  | Weekly Slides | Status |
-| ------- |:-: | --- |:-:|
-| [Week-1-Slide]()  |❌ | [Week-11-Slide]()  | ❌ |
-| [Week-2-Slide]()   |❌ | [Week-12-Slide]()  |❌ |
-| [Week-3-Slide]() |❌ | [Week-13-Slide]()  |❌ |
-| [Week-4-Slide]()  |❌  | [Week-14-Slide]()  |❌ |
-| [Week-5-Slide]()  |❌  | [Week-15-Slide]()  |❌ |
-
-
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
 - **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4) 
 - **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=BICz-zBGdNs) && [ភាគទី ០២](https://www.youtube.com/watch?v=GD5aZV60qm4) 
