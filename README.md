@@ -213,6 +213,16 @@
 
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
+
+| Weekly Slides | Status  | Weekly Slides | Status |
+| ------- |:-: | --- |:-:|
+| [Week-1-Slide]()  |❌ | [Week-11-Slide]()  | ❌ |
+| [Week-2-Slide]()   |❌ | [Week-12-Slide]()  |❌ |
+| [Week-3-Slide]() |❌ | [Week-13-Slide]()  |❌ |
+| [Week-4-Slide]()  |❌  | [Week-14-Slide]()  |❌ |
+| [Week-5-Slide]()  |❌  | [Week-15-Slide]()  |❌ |
+
+
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
 - **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4) 
 - **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=BICz-zBGdNs) && [ភាគទី ០២](https://www.youtube.com/watch?v=GD5aZV60qm4) 
@@ -232,6 +242,8 @@
 - [វិញ្ញាសាររូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019](https://drive.google.com/file/d/1tZZrikQ75AWwEOJITZV5ZFS3p9rQm85o/view?usp=sharing)
 
 #### វិញ្ញាសារបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2021 (File-PDF)
+
+
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(I)](https://drive.google.com/file/d/1BbTkvvk0-Vq5o40DTlCP3vqB0fvWHDID/view?usp=sharing)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(II)](https://drive.google.com/file/d/1U2HhoVY9FbWxnuJpTLaXX1AtbS4iHum0/view?usp=sharing)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2015](https://drive.google.com/file/d/1jVumJvo2r4DOZCF0OGcvekmGeJMUNj7K/view?usp=sharing)
