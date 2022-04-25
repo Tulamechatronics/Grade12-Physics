@@ -257,6 +257,7 @@
 - [Physlets](https://www.compadre.org/Physlets/)
 - [Phet](https://phet.colorado.edu/) 
 - [oPhysics: Interactive Physics Simulations](https://ophysics.com/)
+- [ដែន និង កម្លាំងម៉ាញេទិច](https://virtuelle-experimente.de/en/b-feld/b-feld/helmholtzspulenpaar.php)
 ### 2. Course Videos/Contents (*Free) :
 - [Hyperphysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html)
 - [saburchill](http://www.saburchill.com/physics/physics_hp.html)
