@@ -184,7 +184,7 @@
 **Maths Prerequisites:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrAOXvtDbJ2NLCWLEZFY_Q6)
-    * [🎬 មេរៀន អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
+    * [🎬 មេរៀន អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://youtube.com/playlist?list=PL2G_O4s8LpX8a8sqSKEzLycx3DlAIXF4d)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/135FAan811rhnhNzSLGBqLdlJDgLepipL/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1b32QJRBG5pKKnu1zPK1NhK3Nqga1fLzc/view?usp=sharing)
@@ -194,7 +194,7 @@
 **Maths Prerequisites:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន អូតូអាំងឌុចស្យុង បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrD_Pun1npHSSxA7MQBH-k0)
-    * [🎬 មេរៀន អូតូអាំងឌុចស្យុង បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
+    * [🎬 មេរៀន អូតូអាំងឌុចស្យុង បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX-KFfj4mPtyEuRi8ekjIa5w)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1LA5FySJcTyFWMMfaUBov_yh5kDz4EzSN/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1kwG4guILBiZP-8n5UjXZpEyZd5n3jplW/view?usp=sharing)
@@ -204,7 +204,7 @@
 **Maths Prerequisites:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampU3zNqkx32bCtzb6q_vQ7F)
-    * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
+    * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX_ufOcFcnkFUVNj2aTmHhwx)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1t7OrxBzJAomVYFssHL4EPwbMkAbz6eX6/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1qWLyFefMmK8TV0uaIqagqQw0OZP7FJNg/view?usp=sharing)
@@ -244,11 +244,14 @@
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2019](https://drive.google.com/file/d/1qmnlN6_OGAJGhBu_UiLVrEyXYRwI8_56/view?usp=sharing)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2021](https://drive.google.com/file/d/1gVfIgSHX2MyxGQvW6Mb7U7m-qfQLs9Ce/view?usp=sharing)
 
+#### អត្រាកំណែផ្លូវការ និង ការឱ្យពិន្ទុ
+- [ឆ្នាំ 2018](https://drive.google.com/file/d/17tVMbb2x2ZyX11vClrCMqmKhs_Kef8r1/view?usp=sharing)
+- [ឆ្នាំ 2019](https://drive.google.com/file/d/1H2GsQzwIEw-NoIOsw8CgooMvWhd_3tu8/view?usp=sharing)
 #### រូបមន្តសង្ខេប-PDF 
 
 - [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1_l9WZjCZM5bM9g02CGVzHNDURAKsguC6/view?usp=sharing)
 
-#### វិញ្ញាសារត្រៀម (optional)
+
 
 -----
 
