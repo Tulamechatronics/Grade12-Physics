@@ -173,7 +173,7 @@
 **Physics Prerequisites:** `ចលនាវង់ស្មើ` `ច្បាប់ទី២ ញូតុន`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampRzExU5QnSeaFeN2VLCgsD)
-    * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)]()
+    * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX-LGzbqQqaWb7jbK0l9hyl-)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1pfA-OFN-ctimm8xLD_f-plxpYViDaHFs/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1FlB_3yqyzUFDLKkwbj4zy30M-MgKmDiG/view?usp=sharing)
