@@ -260,6 +260,7 @@
 ### 1. Simulations:
 - [Physlets](https://www.compadre.org/Physlets/)
 - [Phet](https://phet.colorado.edu/) 
+- [*walter-fendt.de](https://www.walter-fendt.de/html5/phen/)
 - [oPhysics: Interactive Physics Simulations](https://ophysics.com/)
 - [ដែន និង កម្លាំងម៉ាញេទិច](https://virtuelle-experimente.de/en/b-feld/b-feld/helmholtzspulenpaar.php)
 ### 2. Course Videos/Contents (*Free) :
