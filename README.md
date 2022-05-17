@@ -224,6 +224,10 @@
 
 # 📚 ebook 📚
 
+#### ស្ថិតិចេញប្រលង
+
+- [ស្ថិតិចេញប្រលងរូបវិទ្យាតាមមេរៀន](https://docs.google.com/document/d/1sVkl4RNhJqZsS4AHoq_IcT5ZPGxUUXyVAb34qaGBylI/edit?usp=sharing)
+
 #### 🎯 សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប (ធានា បាន A+ រូបវិទ្យា) 🥇
 
 - [👉 សៀវភៅសង្ខេបក្រសួងធ្លាប់ដកស្រង់លំហាត់ ចេញប្រលង ឆ្នាំ 2015-2016-2017-2018-2019-2021](https://drive.google.com/file/d/1_LNpf0rKgL4Fm4aqaJsKFIlEM600X89o/view?usp=sharing)
