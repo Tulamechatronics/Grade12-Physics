@@ -256,6 +256,7 @@
 - [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1_l9WZjCZM5bM9g02CGVzHNDURAKsguC6/view?usp=sharing)
 
 #### កម្រងសំនួរ ចម្លើយ
+- [កម្រងសំនួរ រូបវិទ្យា ថ្នាក់ទី ១២](https://drive.google.com/file/d/1pJ9WWEYA_zGKOLlIrGsJDGYtsqOeSLva/view?usp=sharing)
 - [59 សំនួរ-ចម្លើយ រូបវិទ្យាសម្រាប់ត្រៀមប្រលងបាក់ឌុប](https://drive.google.com/file/d/1ypLN_b-dWgdsiXZ-JQhbkRkhA07f2Wmc/view?usp=sharing)
 
 -----
