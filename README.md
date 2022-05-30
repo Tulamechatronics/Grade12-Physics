@@ -49,7 +49,7 @@
     * វិញ្ញាសារបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2021 (File-PDF)
     * [អត្រាកំណែផ្លូវការ](#អត្រាកំណែផ្លូវការ-និង-ការឱ្យពិន្ទុ)
     * រូបមន្តសង្ខេប
- * [Sources/Simulations support Teaching & Learning](#Sources/Simulations-support-Teaching-&-Learning:)
+ * Sources/Simulations support Teaching & Learning
       
 -----
 # Learning How to Learn
