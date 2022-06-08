@@ -272,6 +272,7 @@
 - [Physics Animation](https://www.vascak.cz/physicsanimations.php)  Credit: Twitter
 - [oPhysics: Interactive Physics Simulations](https://ophysics.com/)
 - [ដែន និង កម្លាំងម៉ាញេទិច](https://virtuelle-experimente.de/en/b-feld/b-feld/helmholtzspulenpaar.php)
+- [Magnet Academy](https://nationalmaglab.org/education/magnet-academy/watch-play/interactive?fbclid=IwAR0N1rvJy_Tl8aSt6zOL_ewhp5k0dJ2bAr0tGGQuUk94ghF4JqtTWelXYH4) Mostly Lab Electricity and Magnetic
 ### 2. Course Videos/Contents (*Free) :
 - [Hyperphysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html)
 - [saburchill](http://www.saburchill.com/physics/physics_hp.html)
