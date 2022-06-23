@@ -35,7 +35,7 @@
     * L.7\. [អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច](#មេរៀនទី-០៧-អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច)
     * L.8\. [អូតូអាំងឌុចស្យុង](#មេរៀនទី-០៨-អូតូអាំងឌុចស្យុង)
     * L.9\. [សៀគ្វីចរន្តឆ្លាស់](#មេរៀនទី-០៩-សៀគ្វីចរន្តឆ្លាស់)
-* [ 🎬 វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬](#វីដេអូ-អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់)
+* [ 🎬 វីដេអូ អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬](#វីដេអូ-អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់)
     * ឆ្នាំ 2015
     * ឆ្នាំ 2016
     * ឆ្នាំ 2017
@@ -45,8 +45,8 @@
 * ebook
     * [ស្ថិតិចេញប្រលង](#ស្ថិតិចេញប្រលង)
     * សៀវភៅសង្ខេបក្រសួងធ្លាប់ចេញប្រលង
-    * វិញ្ញាសាររូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019
-    * វិញ្ញាសារបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2021 (File-PDF)
+    * វិញ្ញាសារូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019
+    * វិញ្ញាសាបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2021 (File-PDF)
     * [អត្រាកំណែផ្លូវការ](#អត្រាកំណែផ្លូវការ-និង-ការឱ្យពិន្ទុ)
     * រូបមន្តសង្ខេប
  * Sources/Simulations support Teaching & Learning
@@ -215,7 +215,7 @@
 -----
 
 
-# វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
+# វីដេអូ អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់
 
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
 - **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4) 
@@ -235,21 +235,21 @@
 
 - [👉 សៀវភៅសង្ខេបក្រសួងធ្លាប់ដកស្រង់លំហាត់ ចេញប្រលង ឆ្នាំ 2015-2016-2017-2018-2019-2021](https://drive.google.com/file/d/1_LNpf0rKgL4Fm4aqaJsKFIlEM600X89o/view?usp=sharing)
 
-#### វិញ្ញាសារបាក់ឌុប ឆ្នាំ 2011 - 2019
+#### វិញ្ញាសាបាក់ឌុប ឆ្នាំ 2011 - 2019
 
-- [វិញ្ញាសាររូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019](https://drive.google.com/file/d/1tZZrikQ75AWwEOJITZV5ZFS3p9rQm85o/view?usp=sharing)
+- [វិញ្ញាសារូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019](https://drive.google.com/file/d/1tZZrikQ75AWwEOJITZV5ZFS3p9rQm85o/view?usp=sharing)
 
-#### វិញ្ញាសារបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2021 (File-PDF)
+#### វិញ្ញាសាបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2021 (File-PDF)
 
 
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(I)](https://drive.google.com/file/d/1BbTkvvk0-Vq5o40DTlCP3vqB0fvWHDID/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(II)](https://drive.google.com/file/d/1U2HhoVY9FbWxnuJpTLaXX1AtbS4iHum0/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2015](https://drive.google.com/file/d/1jVumJvo2r4DOZCF0OGcvekmGeJMUNj7K/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2016](https://drive.google.com/file/d/1ZErE0TNvrQnTZ4k_Ih1mRZV6oUZ4BM3o/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2017](https://drive.google.com/file/d/1b_1saN59agmetD-KzprrGyhvI812dwfh/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2018](https://drive.google.com/file/d/1W6v4tc0u6XRsa08FBRpZXKiq9s9bFxyr/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2019](https://drive.google.com/file/d/1qmnlN6_OGAJGhBu_UiLVrEyXYRwI8_56/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2021](https://drive.google.com/file/d/1gVfIgSHX2MyxGQvW6Mb7U7m-qfQLs9Ce/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2014(I)](https://drive.google.com/file/d/1BbTkvvk0-Vq5o40DTlCP3vqB0fvWHDID/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2014(II)](https://drive.google.com/file/d/1U2HhoVY9FbWxnuJpTLaXX1AtbS4iHum0/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2015](https://drive.google.com/file/d/1jVumJvo2r4DOZCF0OGcvekmGeJMUNj7K/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2016](https://drive.google.com/file/d/1ZErE0TNvrQnTZ4k_Ih1mRZV6oUZ4BM3o/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2017](https://drive.google.com/file/d/1b_1saN59agmetD-KzprrGyhvI812dwfh/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2018](https://drive.google.com/file/d/1W6v4tc0u6XRsa08FBRpZXKiq9s9bFxyr/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2019](https://drive.google.com/file/d/1qmnlN6_OGAJGhBu_UiLVrEyXYRwI8_56/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2021](https://drive.google.com/file/d/1gVfIgSHX2MyxGQvW6Mb7U7m-qfQLs9Ce/view?usp=sharing)
 
 #### អត្រាកំណែផ្លូវការ និង ការឱ្យពិន្ទុ
 - [ឆ្នាំ 2016](https://drive.google.com/file/d/1Z8ud05r5gAqDFoKaEpDAaDBhnmjlW2LH/view?usp=sharing)
