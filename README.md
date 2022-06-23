@@ -252,6 +252,8 @@
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2021](https://drive.google.com/file/d/1gVfIgSHX2MyxGQvW6Mb7U7m-qfQLs9Ce/view?usp=sharing)
 
 #### អត្រាកំណែផ្លូវការ និង ការឱ្យពិន្ទុ
+- [ឆ្នាំ 2016](https://drive.google.com/file/d/1Z8ud05r5gAqDFoKaEpDAaDBhnmjlW2LH/view?usp=sharing)
+- [ឆ្នាំ 2017](https://drive.google.com/file/d/1hkNucnU8oJEb1ZPiaxktWpGpnGBL-Sby/view?usp=sharing)
 - [ឆ្នាំ 2018](https://drive.google.com/file/d/17tVMbb2x2ZyX11vClrCMqmKhs_Kef8r1/view?usp=sharing)
 - [ឆ្នាំ 2019](https://drive.google.com/file/d/1H2GsQzwIEw-NoIOsw8CgooMvWhd_3tu8/view?usp=sharing)
 #### រូបមន្តសង្ខេប-PDF 
