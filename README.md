@@ -174,6 +174,9 @@
 **Topics Covered:**  `មេដែក` `ដែនម៉ាញេទិច` `វិធានដៃស្តាំ` `ដែនម៉ាញេទិចនៃចរន្តត្រង់` `ដែនម៉ាញេទិចនៃចរន្តវង់` `ដែនម៉ាញេទិចនៃសូលេណូអ៊ីត` `កម្លាំងអេឡិចត្រូម៉ាញេទិច` `រូបមន្តឡូរុិន` `បាញ់ផង់ចូលដែនម៉ាញេទិចឯកសណ្ឋាន` `ស្បុិចក្រាប` 
 <br>
 **Physics Prerequisites:** `ចលនាវង់ស្មើ` `ច្បាប់ទី២ ញូតុន`
+**Simulations** 
+- [Phet មេដែក](https://phet.colorado.edu/sims/cheerpj/faraday/latest/faraday.html?simulation=magnet-and-compass)
+
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampRzExU5QnSeaFeN2VLCgsD)
     * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX-LGzbqQqaWb7jbK0l9hyl-)
