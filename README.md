@@ -174,6 +174,7 @@
 **Topics Covered:**  `មេដែក` `ដែនម៉ាញេទិច` `វិធានដៃស្តាំ` `ដែនម៉ាញេទិចនៃចរន្តត្រង់` `ដែនម៉ាញេទិចនៃចរន្តវង់` `ដែនម៉ាញេទិចនៃសូលេណូអ៊ីត` `កម្លាំងអេឡិចត្រូម៉ាញេទិច` `រូបមន្តឡូរុិន` `បាញ់ផង់ចូលដែនម៉ាញេទិចឯកសណ្ឋាន` `ស្បុិចក្រាប` 
 <br>
 **Physics Prerequisites:** `ចលនាវង់ស្មើ` `ច្បាប់ទី២ ញូតុន`
+<br>
 **Simulations** 
 - [Phet មេដែក](https://phet.colorado.edu/sims/cheerpj/faraday/latest/faraday.html?simulation=magnet-and-compass)
 
