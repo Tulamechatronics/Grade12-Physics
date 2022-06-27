@@ -102,6 +102,9 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1KtmRV11_VzI3BhmeV8XeF1viH0EcI5tK/view?usp=sharing)
+    
+- វីដេអូកែលំហាត់ (ប្រភព Youtube)
+    * [កែលំហាត់ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន](https://youtube.com/playlist?list=PL17Z3wG4bIQepDPDO-0sg0z28lCbEYNCm)
 
 
 ###       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
