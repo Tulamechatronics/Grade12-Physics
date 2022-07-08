@@ -46,9 +46,10 @@
     * [ស្ថិតិចេញប្រលង](#ស្ថិតិចេញប្រលង)
     * សៀវភៅសង្ខេបក្រសួងធ្លាប់ចេញប្រលង
     * វិញ្ញាសារូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019
-    * វិញ្ញាសាបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2021 (File-PDF)
+    * វិញ្ញាសាបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2011-2021 
     * [អត្រាកំណែផ្លូវការ](#អត្រាកំណែផ្លូវការ-និង-ការឱ្យពិន្ទុ)
     * រូបមន្តសង្ខេប
+    * កម្រងសំនួរចម្លើយ
  * Sources/Simulations support Teaching & Learning
       
 -----
@@ -246,9 +247,10 @@
 
 - [វិញ្ញាសារូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019](https://drive.google.com/file/d/1tZZrikQ75AWwEOJITZV5ZFS3p9rQm85o/view?usp=sharing)
 
-#### វិញ្ញាសាបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2021 (File-PDF)
-
-
+#### វិញ្ញាសាបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2011-2021 
+- [វិញ្ញាសា ឆ្នាំ 2011](https://docs.google.com/document/d/1FpPg8z-6At-CO4cU25aX0cgEN2yTrUyrh-momjpTG-A/edit?usp=sharing)
+- [វិញ្ញាសា ឆ្នាំ 2012](https://docs.google.com/document/d/1wG04E7ucuTtfFh5pkYduvd9GHzozPm_dfuLE-gUgyo8/edit?usp=sharing)
+- [វិញ្ញាសា ឆ្នាំ 2013](https://docs.google.com/document/d/1UeiZZKeL-Xj0OqoqHGoWxWuMUUBJ5IeaE8RmzYmSEM8/edit?usp=sharing)
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2014(I)](https://drive.google.com/file/d/1BbTkvvk0-Vq5o40DTlCP3vqB0fvWHDID/view?usp=sharing)
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2014(II)](https://drive.google.com/file/d/1U2HhoVY9FbWxnuJpTLaXX1AtbS4iHum0/view?usp=sharing)
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2015](https://drive.google.com/file/d/1jVumJvo2r4DOZCF0OGcvekmGeJMUNj7K/view?usp=sharing)
