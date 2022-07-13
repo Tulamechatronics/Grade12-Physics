@@ -200,7 +200,7 @@
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/135FAan811rhnhNzSLGBqLdlJDgLepipL/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1b32QJRBG5pKKnu1zPK1NhK3Nqga1fLzc/view?usp=sharing)
 ###       មេរៀនទី ០៨ អូតូអាំងឌុចស្យុង
-**Topics Covered:** `បាតុភូតអូតូអាំងឌុចស្យុង` `អាំងឌុចតង់` `កម្លាំងអគ្គិសនីចលករអូតូអាំងឌ្វី` `ថាមពលម៉ាញេទិច` `សៀគ្វី RL` `ឌីប៉ូល RL ពេលបិទកុងតាក់` $ i = I_p(1-e^\frac{-t}{\tau} )$ `ចរន្តក្នុងរបបអចិន្ត្រៃយ៍` $i = I_p = \frac{E}{R}$ `ឌីប៉ូល RL ពេលចំហកុងតាក់` $i = I_p e^\frac{-t}{\tau}$ `ថេរពេល` ($\tau$)  `សៀគ្វីលំយោល LC` `ច្បាប់រក្សាថាមពល` `ខួបនៃលំយោល`  
+**Topics Covered:** `បាតុភូតអូតូអាំងឌុចស្យុង` `អាំងឌុចតង់` `កម្លាំងអគ្គិសនីចលករអូតូអាំងឌ្វី` `ថាមពលម៉ាញេទិច` `សៀគ្វី RL` `ឌីប៉ូល RL ពេលបិទកុងតាក់` $ i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិន្ត្រៃយ៍` $i = I_p = \frac{E}{R}$ `ឌីប៉ូល RL ពេលចំហកុងតាក់` $i = I_p e^\frac{-t}{\tau}$ `ថេរពេល` ($\tau$)  `សៀគ្វីលំយោល LC` `ច្បាប់រក្សាថាមពល` `ខួបនៃលំយោល`  
 <br>
 **Maths Prerequisites:** `អាំងតេក្រាល` `សមីការឌីផេរ៉ង់ស្យែល`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -214,6 +214,7 @@
 <br>
 **Maths Prerequisites:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 AC_Khan Academy India-English](https://www.youtube.com/playlist?list=PL2ub1_oKCn7ruZr0B-ZxHcJb7tSRS0HlO)
     * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampU3zNqkx32bCtzb6q_vQ7F)
     * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX_ufOcFcnkFUVNj2aTmHhwx)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
