@@ -12,7 +12,7 @@
 
 
 # Grade12-Physics      
-![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=brightgreen&label=VISITORS)
+
 
 សារបណ្ណ
 
@@ -309,6 +309,10 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 
 ## សេចក្តីថ្លែងអំណរគុណ
 Thanks to all the contributors who shared resources in building this repo.
+
+## ចំនួនអ្នកទស្សនា
+
+![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=brightgreen&label=VISITORS)
 
 -----
 
