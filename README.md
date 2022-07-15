@@ -12,7 +12,7 @@
 
 
 # Grade12-Physics      
-![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=brightgreen&label=VISITORS)
 
 សារបណ្ណ
 
