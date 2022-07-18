@@ -78,8 +78,7 @@
 -----
 
 # Online Textbook
-   *[Physics Highschool-openstax](https://openstax.org/books/physics/pages/1-introduction)
-
+[Physics Highschool-openstax](https://openstax.org/books/physics/pages/1-introduction) ចំពោះសៀវភៅនេះ លោកគ្រូ អ្នកគ្រូ អាចជ្រើសរើសឱ្យសិស្សអានតាមមេរៀន និង ប្រធានបទតូចៗ (1.1, 1.2, 1.3, 1.4 .... ) ដោយវាត្រូវបានរៀបចំបានល្អមែនទែន ទាំងមេរៀន ការពន្យល់ និង លំហាត់អនុវត្តន៍
 -----
 # 📋 Course Syllabus 📅
 <br>
