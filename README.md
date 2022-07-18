@@ -76,9 +76,9 @@
 - [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
      
 -----
-# Online Textbook
 
-     * [Physics Highschool-openstax](https://openstax.org/books/physics/pages/1-introduction)
+# Online Textbook
+   *[Physics Highschool-openstax](https://openstax.org/books/physics/pages/1-introduction)
 
 -----
 # 📋 Course Syllabus 📅
