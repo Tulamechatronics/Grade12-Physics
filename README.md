@@ -77,7 +77,7 @@
 # Online Textbook
 
 [Physics Highschool-openstax](https://openstax.org/books/physics/pages/1-introduction) ចំពោះសៀវភៅនេះ លោកគ្រូ អ្នកគ្រូ អាចជ្រើសរើសឱ្យសិស្សអានតាមមេរៀន និង ប្រធានបទ តូចៗ
-(ឧ: 1.1, 1.2, 1.3, 1.4 .... ) ដោយវាត្រូវបានរៀបចំបានល្អមែនទែន ទាំងមេរៀន ការពន្យល់ និង លំហាត់អនុវត្តន៍ ពិសេស វាស្រដៀងនឹងសៀវភៅសិក្សាគោលថ្នាក់ទី១២យើង គ្រាន់តែវាមានទិន្នន័យ ទាន់សម័យច្រើន និង បម្រើបម្រាស់នៃចំណេះដឹង។
+(ឧ: 1.1, 1.2, 1.3, 1.4 ) ដោយ វាត្រូវបានរៀបចំបានល្អមែនទែន ទាំងមេរៀន ការពន្យល់ និង លំហាត់អនុវត្តន៍ ពិសេស វាស្រដៀងនឹងសៀវភៅសិក្សាគោលថ្នាក់ទី១២យើង គ្រាន់តែវាមានទិន្នន័យ ទាន់សម័យច្រើន និង បម្រើបម្រាស់នៃចំណេះដឹង។
     
     
 -----
@@ -167,7 +167,11 @@
 
 -----
 # ជំពូក ០៣ អគ្គិសនី និង ម៉ាញេទិច
-> Science is an activity of men; to many men it is a great pleasure and it should not be denied to the people of a large part of the world simply because of a fault or lack in the educational system.  In other words, one of the reasons for teaching science is to make scientists who will not just contribute to the development of industry but also contribute to the development of knowledge, joining others in this great adventure of our times, and, of course, obtaining enormous pleasure in doing so. _ Prof. Feynman
+     Science is an activity of men; to many men it is a great pleasure and it should not be denied to 
+     the people of a large part of the world simply because of a fault or lack in the educational system.
+     In other words, one of the reasons for teaching science is to make scientists who will not just contribute
+     to the development of industry but also contribute to the development of knowledge, joining others in this
+     great adventure of our times, and, of course, obtaining enormous pleasure in doing so. _ Prof. Feynman
 <br>
 
 > The value in teaching science is to teach how things are found out.  The value of questioning, the value of free ideas – not only for the development of science, but the value of free ideas in every field – becomes apparent.  Science is a way to teach how something gets to be known, what is not known, to what extent things are known (for nothing is known absolutely), how to handle doubt and uncertainty, what the rules of evidence are, how to think about things so that judgments can be made, how to distinguish truth from fraud, and from show.  These are certainly important secondary yields of teaching science, and physics in particular. _ Prof. Feynman
