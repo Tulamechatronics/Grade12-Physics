@@ -229,7 +229,9 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 ###       មេរៀនទី ០៩ សៀគ្វីចរន្តឆ្លាស់
 **Topics Covered:**  
 <br>
-**Maths Prerequisites:** 
+**Maths Prerequisites:** `ត្រីកោណមាត្រ`
+- [Physics animations and film clips](https://www.animations.physics.unsw.edu.au/downloads.htm#AC)
+- [AC circuits: alternating current electricity](https://www.animations.physics.unsw.edu.au/jw/AC.html)
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 AC_Khan Academy India-English](https://www.youtube.com/playlist?list=PL2ub1_oKCn7ruZr0B-ZxHcJb7tSRS0HlO)
     * [🎬 មេរៀន ចរន្តឆ្លាស់ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampU3zNqkx32bCtzb6q_vQ7F)
