@@ -300,6 +300,7 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 
 ## Physics Storytelling
 
+- [Crash Course: History of Science](https://www.youtube.com/playlist?list=PLOjx1BIlnqJVntjIwY1hO2Nz5HsZO89fo)
 - [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder)
 - [Kathy Loves Physics & History](https://www.youtube.com/c/KathyLovesPhysicsHistory/videos)
 - [Prof. Jim Al-Khalili](https://docs.google.com/document/d/1Ss6ws_zNmEr4cjcdgpgZ3LgiLxzd2hBx9dUwFW6SLYw/edit?usp=sharing)
