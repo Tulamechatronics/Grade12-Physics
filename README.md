@@ -297,6 +297,12 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 -----
 
 #  Sources/Simulations support Teaching & Learning: 
+
+## Physics Storytelling
+
+- [Kathy Loves Physics & History](https://www.youtube.com/c/KathyLovesPhysicsHistory/videos)
+- [Prof. Jim Al-Khalili](https://docs.google.com/document/d/1Ss6ws_zNmEr4cjcdgpgZ3LgiLxzd2hBx9dUwFW6SLYw/edit?usp=sharing)
+
 ### 1. Simulations:
 - [Physlets](https://www.compadre.org/Physlets/)
 - [Phet](https://phet.colorado.edu/) 
