@@ -262,8 +262,8 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 
 #### 🎯 សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប (ធានា បាន A+ រូបវិទ្យា) 🥇
 
-- [👉 សៀវភៅសង្ខេបក្រសួង ធ្លាប់ដកស្រង់លំហាត់ ចេញប្រលង ឆ្នាំ 2015-2016-2017-2018-2019-2021](https://drive.google.com/file/d/1_LNpf0rKgL4Fm4aqaJsKFIlEM600X89o/view?usp=sharing)
-- [📘 រូបវិទ្យាថ្នាក់ទី ១២ រៀបរៀងដោយ ក្រុមនិស្សិតស្ម័គ្រចិត្ត ក្រសួងអប់រំ យុវជន និង កីឡា](https://drive.google.com/file/d/1iST2r4s6t9v42luGsnGR7jGB7yMSJ_C3/view?usp=sharing) `មានសម្រាយដំណោះស្រាយពិស្តារ ពីសៀវភៅសង្ខេបក្រសួងខាងលើ`
+- [🅰️ សៀវភៅសង្ខេបក្រសួង  ធ្លាប់ដកស្រង់លំហាត់ ចេញប្រលង ឆ្នាំ 2015-2016-2017-2018-2019-2021](https://drive.google.com/file/d/1_LNpf0rKgL4Fm4aqaJsKFIlEM600X89o/view?usp=sharing) `58 ទំព័រ` `Bible Bacc -II Physics` `Complete this book A+ is calling`
+- [📘 រូបវិទ្យាថ្នាក់ទី ១២ រៀបរៀងដោយ ក្រុមនិស្សិតស្ម័គ្រចិត្ត ក្រសួងអប់រំ យុវជន និង កីឡា](https://drive.google.com/file/d/1iST2r4s6t9v42luGsnGR7jGB7yMSJ_C3/view?usp=sharing) `មានសម្រាយដំណោះស្រាយពិស្តារ ដោយយកលំហាត់ពីសៀវភៅសង្ខេបក្រសួង 58 ទំព័រ ខាងលើ`
 
 #### វិញ្ញាសាបាក់ឌុប ឆ្នាំ 2011 - 2019
 
