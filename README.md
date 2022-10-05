@@ -328,6 +328,7 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 
 **ឆ្នាំទី_១ និង ទី_២**
 - [Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen/featured) គាត់បង្រៀនគ្រប់ប្រធានបទ សម្រាប់រូបវិទ្យា ឆ្នាំទី ១ និង ទី ២។
+- [ProfessorLeonard](https://www.youtube.com/c/ProfessorLeonard/playlists) `Cal-1` `Cal-2` `Cal-3`
 - [រៀន Calculus ដោយខ្លួនឯង](https://medium.com/@comnerd23/%E1%9E%9A%E1%9F%80%E1%9E%93-calculus-%E1%9E%8A%E1%9F%84%E1%9E%99%E1%9E%81%E1%9F%92%E1%9E%9B%E1%9E%BD%E1%9E%93%E1%9E%AF%E1%9E%84-bd3442f3ad57)
 -----
 
