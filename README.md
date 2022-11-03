@@ -26,6 +26,8 @@
     * 1.3\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
 * [Online Textbook](#Online-Textbook)
+* [Course Syllabus](#-Course-Syllabus-)
+* [សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១២ របស់ក្រសួងអប់រំយុវជន និង កីឡា](# សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី-១២-របស់ក្រសួងអប់រំយុវជន-និង-កីឡា)
 
 * ជំពូកទី ០១\. [ទែម៉ូឌីណាមិច](#ជំពូកទី-១-ទែម៉ូឌីណាមិច)
     * L.1\. [ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន](#មេរៀនទី-០១-ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន)
@@ -89,6 +91,8 @@
 
 <br>
 <br>
+
+# សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១២ របស់ក្រសួងអប់រំយុវជន និង កីឡា
 
 
 # ជំពូកទី ០១ ទែម៉ូឌីណាមិច
@@ -228,7 +232,7 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1LA5FySJcTyFWMMfaUBov_yh5kDz4EzSN/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1kwG4guILBiZP-8n5UjXZpEyZd5n3jplW/view?usp=sharing)
 ###       មេរៀនទី ០៩ សៀគ្វីចរន្តឆ្លាស់
-**Topics Covered:**  
+**Topics Covered:**  `` `` `` `` `` `` `` `` `ត្រង់ស្វូ` `` 
 <br>
 **Maths Prerequisites:** `ត្រីកោណមាត្រ`
 - [Physics animations and film clips](https://www.animations.physics.unsw.edu.au/downloads.htm#AC)
