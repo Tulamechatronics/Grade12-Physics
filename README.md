@@ -77,24 +77,24 @@
      
 -----
 # Online Textbook
-
-[Physics Highschool-openstax](https://openstax.org/books/physics/pages/1-introduction) ចំពោះសៀវភៅនេះ លោកគ្រូ អ្នកគ្រូ អាចជ្រើសរើសឱ្យសិស្សអានតាមមេរៀន និង ប្រធានបទ តូចៗ
+**Topics Covered:** `ទែម៉ូឌីណាមិច` `អគី្គសនី និង ម៉ាញេទិច`
+[Physics Highschool-openstax](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) ចំពោះសៀវភៅនេះ លោកគ្រូ អ្នកគ្រូ អាចជ្រើសរើសឱ្យសិស្សអានតាមមេរៀន និង ប្រធានបទ តូចៗ
 (ឧ: 1.1, 1.2, 1.3, 1.4 ) ដោយ វាត្រូវបានរៀបចំបានល្អមែនទែន ទាំងមេរៀន ការពន្យល់ និង លំហាត់អនុវត្តន៍ ពិសេស វាស្រដៀងនឹងសៀវភៅសិក្សាគោលថ្នាក់ទី១២យើង គ្រាន់តែវាមានទិន្នន័យ ទាន់សម័យច្រើន និង បម្រើបម្រាស់នៃចំណេះដឹង។
     
     
 -----
 # 📋 Course Syllabus 📅
 <br>
-<br>
 
 - [Physics Grade 12 ](https://docs.google.com/document/d/1iw9oEosUIuEuoWzSpInsq2Ml6TVzcU8F2G_UIqsFcYQ/edit?usp=sharing)
 
 <br>
+# សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១១-១២ របស់ក្រសួងអប់រំយុវជន និង កីឡា
 <br>
+- [សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១១](https://drive.google.com/file/d/1wq88iPhiSPWMZJI_HcExBthhdukRgx2C/view?usp=share_link)
+- [សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១២](https://drive.google.com/file/d/1a3YhDv26hyho96GdXoRhb1XYF4EEbbVs/view?usp=share_link)
 
-# សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១២ របស់ក្រសួងអប់រំយុវជន និង កីឡា
-
-
+<br>
 # ជំពូកទី ០១ ទែម៉ូឌីណាមិច
  > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
