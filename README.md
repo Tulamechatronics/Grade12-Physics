@@ -292,12 +292,15 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2018](https://drive.google.com/file/d/1W6v4tc0u6XRsa08FBRpZXKiq9s9bFxyr/view?usp=sharing)
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2019](https://drive.google.com/file/d/1qmnlN6_OGAJGhBu_UiLVrEyXYRwI8_56/view?usp=sharing)
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2021](https://drive.google.com/file/d/1gVfIgSHX2MyxGQvW6Mb7U7m-qfQLs9Ce/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2022]()
 
 #### អត្រាកំណែផ្លូវការ និង ការឱ្យពិន្ទុ
 - [ឆ្នាំ 2016](https://drive.google.com/file/d/1Z8ud05r5gAqDFoKaEpDAaDBhnmjlW2LH/view?usp=sharing)
 - [ឆ្នាំ 2017](https://drive.google.com/file/d/1hkNucnU8oJEb1ZPiaxktWpGpnGBL-Sby/view?usp=sharing)
 - [ឆ្នាំ 2018](https://drive.google.com/file/d/17tVMbb2x2ZyX11vClrCMqmKhs_Kef8r1/view?usp=sharing)
 - [ឆ្នាំ 2019](https://drive.google.com/file/d/1H2GsQzwIEw-NoIOsw8CgooMvWhd_3tu8/view?usp=sharing)
+- [ឆ្នាំ 2021](https://drive.google.com/file/d/1T9D2o07k2Jfuv_8BxADhQPLdS12lOPQJ/view?usp=sharing)
+
 #### រូបមន្តសង្ខេប-PDF 
 
 - [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1_l9WZjCZM5bM9g02CGVzHNDURAKsguC6/view?usp=sharing)
