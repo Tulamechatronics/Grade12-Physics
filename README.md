@@ -292,7 +292,7 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2018](https://drive.google.com/file/d/1W6v4tc0u6XRsa08FBRpZXKiq9s9bFxyr/view?usp=sharing)
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2019](https://drive.google.com/file/d/1qmnlN6_OGAJGhBu_UiLVrEyXYRwI8_56/view?usp=sharing)
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2021](https://drive.google.com/file/d/1gVfIgSHX2MyxGQvW6Mb7U7m-qfQLs9Ce/view?usp=sharing)
-- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2022]()
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2022](https://drive.google.com/file/d/173vJ1_WiTj32UJc5H7sFmbxiGqAYT85e/view?usp=share_link) `available`
 
 #### អត្រាកំណែផ្លូវការ និង ការឱ្យពិន្ទុ
 - [ឆ្នាំ 2016](https://drive.google.com/file/d/1Z8ud05r5gAqDFoKaEpDAaDBhnmjlW2LH/view?usp=sharing)
