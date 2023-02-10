@@ -355,7 +355,7 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 ## សេចក្តីថ្លែងអំណរគុណ
 Thanks to all the contributors who shared resources in building this repo.
 
-## ចំនួនអ្នកទស្សនាសរុប (Total Visitors)
+## ចំនួនអ្នកទស្សនាសរុប
 
 ![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=brightgreen&label=VISITORS)
 
