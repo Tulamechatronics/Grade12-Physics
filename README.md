@@ -162,10 +162,7 @@
 <br>
 **Maths Prerequisites:** `ត្រីកោណមាត្រ`
 - [Simulation រកតម្លៃខួប ប្រេកង់ និង រលកជញ្ជ្រំ](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html)
-- បាតុភូតរ៉េសូណង់
-    * [Video-1]()
-    * [Video-2]()
-    * [Video-3]()
+- [Desmos graph 2 waves](https://www.desmos.com/calculator/3f9ir9uwzb)
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampSwS8OuG3nSRQocemPc7dG)
     * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX8b4CBqxRnmfa2q1QvhlLyu)
