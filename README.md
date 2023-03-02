@@ -169,6 +169,7 @@
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampSwS8OuG3nSRQocemPc7dG)
     * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX8b4CBqxRnmfa2q1QvhlLyu)
+    *[🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូ ប៊ិន ទិត្យកុសល Full Playlist](https://youtube.com/playlist?list=PLqTQjCxCfdSgt6ZPFC_Y5XFzwm2rLqOy0)
     * [រលកជញ្ជ្រំ MIT Walter lewin](https://www.youtube.com/watch?v=D_RIzl1uCxY&t=287s) | [សង់ក្រាបបញ្ជាក់ទិសដៅបន្ទាត់ទៅឆ្វេង ឬ ស្តាំ](https://www.desmos.com/calculator)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
