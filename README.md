@@ -112,8 +112,9 @@
 **Topics Covered:** `ទំនាក់ទំនងរវាងមីក្រូស្កុបពិច និង ម៉ាក្រូស្កុបពិច` `ស្ថិតិ` `Assumptions Ideal Gas Law` `សម្ពាធក្នុងទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន` `សមីការឧស្ម័នបរិសុទ្ធ`  `តម្លៃមធ្យមនៃថាមពលស៊ីនេទិចម៉ូលេគុលនីមួយៗ` `ថាមពលស៊ីនេទិចសរុប` `ឬសការេនៃការេល្បឿនមធ្យម`
 <br>
 ##### Summary
+- [សង្ខេបខ្លឹមសារសំខាន់](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Summary%20Lesson/L1.md)
 
-
+##### ឯកសារ
 - [Macroscopic & Microscopic point of view](https://www.youtube.com/watch?v=eeu6OVNtjkc)
 - [សម្រាយបញ្ជាក់ PV = nRT](https://www.youtube.com/watch?v=voFVaeDZrjc&t=2s)
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
