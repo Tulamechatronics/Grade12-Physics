@@ -133,6 +133,12 @@
 **Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
 <br>
 **Maths Prerequisites:** `ផលគុណស្កាលែ` `អាំងតេក្រាល` 
+
+##### Summary
+- [សង្ខេបខ្លឹមសារសំខាន់](https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Summary%20Lesson/L2.md)
+
+##### ឯកសារ
+
 - [Phet Simulation: Energy Forms and Changes](https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html) ប្រើសម្រាប់ពន្យល់ពី ច្បាប់រក្សាថាមពល និង ការបម្លែងពីប្រភេទថាមពលមួយ ទៅជា ប្រភេទថាមពលមួយទៀត
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន ច្បាប់ទី ១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX_3RY8_aWQi47ukyJsopRSE)
