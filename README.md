@@ -19,6 +19,7 @@
 សារបណ្ណ
 
 -----
+* [Testimonials](#Testimonials)
 
 * [Learning How to Learn](#Learning-How-to-Learn)
     * 1.1\. [How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
@@ -54,6 +55,9 @@
  * Sources/Simulations support Teaching & Learning
  * [ស្ថិតិអ្នកចូលមើល](#ចំនួនអ្នកទស្សនាសរុប)
       
+-----
+# Testimonials
+
 -----
 # Learning How to Learn
 > Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
