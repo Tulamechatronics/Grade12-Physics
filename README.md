@@ -73,16 +73,25 @@
 <!--END_SECTION:activity-->
 </details> 
 
-    
-- [How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
-     * [General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx) | 
-     * [Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
-     * [Getting Help](https://tutorial.math.lamar.edu/Extras/StudyMath/GettingHelp.aspx)
-     * [Homework](https://tutorial.math.lamar.edu/Extras/StudyMath/Homework.aspx)
-     * [Problem Solving](https://tutorial.math.lamar.edu/Extras/StudyMath/ProblemSolving.aspx)
-     * [Studying For Exams](https://tutorial.math.lamar.edu/Extras/StudyMath/StudyForExam.aspx)
-     * [Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
-     * [Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)
+<details>
+  <summary> How to study math:</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+  -  [How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx) 
+  -  [General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx) 
+  -  [Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
+  -  [Getting Help](https://tutorial.math.lamar.edu/Extras/StudyMath/GettingHelp.aspx)
+  -  [Homework](https://tutorial.math.lamar.edu/Extras/StudyMath/Homework.aspx)
+  -  [Problem Solving](https://tutorial.math.lamar.edu/Extras/StudyMath/ProblemSolving.aspx)
+  -  [Studying For Exams](https://tutorial.math.lamar.edu/Extras/StudyMath/StudyForExam.aspx)
+  -  [Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
+  -  [Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)
+  
+  
+<!--END_SECTION:activity-->
+</details> 
+
 - [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
      
 -----
@@ -360,6 +369,7 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 - [Yau-Jong Twu](https://www.youtube.com/user/onlearningcurve/playlists)
 
 **ឆ្នាំទី_១ និង ទី_២**
+- [Pauls Online Math Notes](https://tutorial.math.lamar.edu/)
 - [Michel van Biezen](https://www.youtube.com/c/MichelvanBiezen/featured) គាត់បង្រៀនគ្រប់ប្រធានបទ សម្រាប់រូបវិទ្យា ឆ្នាំទី ១ និង ទី ២។
 - [ProfessorLeonard](https://www.youtube.com/c/ProfessorLeonard/playlists) `Cal-1` `Cal-2` `Cal-3`
 - [រៀន Calculus ដោយខ្លួនឯង](https://medium.com/@comnerd23/%E1%9E%9A%E1%9F%80%E1%9E%93-calculus-%E1%9E%8A%E1%9F%84%E1%9E%99%E1%9E%81%E1%9F%92%E1%9E%9B%E1%9E%BD%E1%9E%93%E1%9E%AF%E1%9E%84-bd3442f3ad57)
