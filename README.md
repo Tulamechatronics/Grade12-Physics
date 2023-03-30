@@ -59,7 +59,7 @@
 > Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 
 <details>
-  <summary> Courses detail :</summary>
+  <summary> [How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1) :</summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -71,7 +71,7 @@
 </details> 
 
 
-- [How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
+- 
      * [វីដេអូភាគទី 1](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [វីដេអូភាគទី 2](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [វីដេអូភាគទី 3](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [វីដេអូភាគទី 4](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [វីដេអូភាគទី 5](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6)
     
 - [How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
