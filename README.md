@@ -53,6 +53,7 @@
     * [រូបមន្តសង្ខេប](#រូបមន្តសង្ខេប-PDF)
     * [កម្រងសំនួរចម្លើយ](#កម្រងសំនួរ-ចម្លើយ)
  * Sources/Simulations support Teaching & Learning
+ * [Inspired to do this repo](#Inspired-to-do-this-repo-by)
  * [ស្ថិតិអ្នកចូលមើល](#ចំនួនអ្នកទស្សនាសរុប)
       
 -----
@@ -379,7 +380,8 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 - [រៀន Calculus ដោយខ្លួនឯង](https://medium.com/@comnerd23/%E1%9E%9A%E1%9F%80%E1%9E%93-calculus-%E1%9E%8A%E1%9F%84%E1%9E%99%E1%9E%81%E1%9F%92%E1%9E%9B%E1%9E%BD%E1%9E%93%E1%9E%AF%E1%9E%84-bd3442f3ad57)
 -----
 
-## Inspired to do this repo by:
+## Inspired to do this repo by
+- [Five Minute Physics](https://teaching.smp.uq.edu.au/fiveminutephysics/index.html) `The University of Queenland`
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
 - [MIT Challenge](https://www.youtube.com/playlist?list=PLevjQIg-kYubWBFB8NN8EYvYjmJhjEzVA)
 - [OSSU curriculum is a complete education in computer science](https://github.com/ossu/computer-science?fbclid=IwAR0JMLQdH-XNgbeCEtEmrwQVG2YkWY2-x_EoCgaK5-TuhhnwXyQIyV1Q-Yw#core-cs)
