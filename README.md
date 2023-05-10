@@ -398,9 +398,3 @@ Thanks to all the contributors who shared resources in building this repo.
 
 
 -----
-
-![](https://komarev.com/ghpvc/?username=Grade12-Physics&style=flat)
-
------
-
-
