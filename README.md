@@ -18,7 +18,7 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=blueviolet)
 <br>
-![](https://komarev.com/ghpvc/?username=Grade12-Physics&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Grade12-Physics&style=flat&color=blueviolet)
 
 -----
 ### សារបណ្ណ
