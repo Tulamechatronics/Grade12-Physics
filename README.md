@@ -15,7 +15,6 @@
 
 # Grade12-Physics 
 
-![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=blueviolet)
 
 
 
@@ -397,7 +396,7 @@ Thanks to all the contributors who shared resources in building this repo.
 
 `Total Visitors`
 
-![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=brightgreen&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=blueviolet)
 
 
 -----
