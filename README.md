@@ -13,7 +13,10 @@
      how to use the internet doesn't need a full-time teacher. _David Perell
 
 
-# Grade12-Physics      
+# Grade12-Physics 
+
+![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=blueviolet)
+
 
 
 សារបណ្ណ
