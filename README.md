@@ -16,8 +16,6 @@
 # Grade12-Physics 
 `ស្ថិតិអ្នកចូលមើល(Total Visitors)`
 <br>
-![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=blueviolet)
-<br>
 ![](https://komarev.com/ghpvc/?username=Grade12-Physics&style=flat&color=blueviolet)
 
 -----
