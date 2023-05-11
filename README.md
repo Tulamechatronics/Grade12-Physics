@@ -14,10 +14,10 @@
 
 
 # Grade12-Physics 
+ស្ថិតិអ្នកចូលមើល `Total Visitors`
+![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=blueviolet)
 
-
-
-
+-----
 សារបណ្ណ
 
 -----
@@ -56,7 +56,7 @@
     * [កម្រងសំនួរចម្លើយ](#កម្រងសំនួរ-ចម្លើយ)
  * Sources/Simulations support Teaching & Learning
  * [Inspired to do this repo](#Inspired-to-do-this-repo-by)
- * [ស្ថិតិអ្នកចូលមើល](#ចំនួនអ្នកទស្សនាសរុប)
+ 
       
 -----
 # Testimonials
@@ -391,12 +391,6 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 
 ## សេចក្តីថ្លែងអំណរគុណ
 Thanks to all the contributors who shared resources in building this repo.
-
-## ចំនួនអ្នកទស្សនាសរុប
-
-`Total Visitors`
-
-![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=blueviolet)
 
 
 -----
