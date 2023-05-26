@@ -348,7 +348,7 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 
 -----
 
-#  Sources-Simulations-support-Teaching & Learning 
+#  Sources Simulations support Teaching & Learning 
 
 - [ធនធានសិក្សាកម្ពុជា](https://oer.moeys.gov.kh/) `All Grades, Subjects`
 
