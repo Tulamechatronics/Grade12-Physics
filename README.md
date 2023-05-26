@@ -56,7 +56,7 @@
     * [អត្រាកំណែផ្លូវការ](#អត្រាកំណែផ្លូវការ-និង-ការឱ្យពិន្ទុ)
     * [រូបមន្តសង្ខេប](#រូបមន្តសង្ខេប-PDF)
     * [កម្រងសំនួរចម្លើយ](#កម្រងសំនួរ-ចម្លើយ)
- * Sources/Simulations support Teaching & Learning
+ * [Sources/Simulations support Teaching & Learning](#Sources-Simulations-support-Teaching-&-Learning)
  * [Inspired to do this repo](#Inspired-to-do-this-repo-by)
  
       
@@ -348,7 +348,7 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 
 -----
 
-#  Sources/Simulations support Teaching & Learning: 
+#  Sources-Simulations-support-Teaching & Learning 
 
 - [ធនធានសិក្សាកម្ពុជា](https://oer.moeys.gov.kh/) `All Grades, Subjects`
 
