@@ -255,6 +255,8 @@
     * [បាញ់ផង់ចូលដែនម៉ាញេទិច](https://virtuelle-experimente.de/en/b-feld/anwendung/sim-massenspektrometer.php)
 
 <br>
+
+
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1pfA-OFN-ctimm8xLD_f-plxpYViDaHFs/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1FlB_3yqyzUFDLKkwbj4zy30M-MgKmDiG/view?usp=sharing)
@@ -272,6 +274,8 @@
     * [Levitating Ring – Lenz's Law Demonstration](https://physicsexperiments.eu/2100/levitating-ring---lenzs-law-demonstration)
 
 <br>
+
+
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/135FAan811rhnhNzSLGBqLdlJDgLepipL/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1b32QJRBG5pKKnu1zPK1NhK3Nqga1fLzc/view?usp=sharing)
