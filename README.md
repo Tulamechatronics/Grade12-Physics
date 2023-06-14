@@ -274,6 +274,8 @@
     * [ភ្លុចម៉ាញេទិច](https://physicsexperiments.eu/1776/coil-in-a-uniform-magnetic-field)
     * [Levitating Ring – Lenz's Law Demonstration](https://physicsexperiments.eu/2100/levitating-ring---lenzs-law-demonstration)
     * [Electric Motor](https://www.animations.physics.unsw.edu.au/jw/electricmotors.html) `UNSW Physics`
+    * [Best Electric Motor](https://www.walter-fendt.de/html5/phen/electricmotor_en.htm)
+    * 
 
 <br>
 
