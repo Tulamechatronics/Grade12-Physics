@@ -249,10 +249,12 @@
     * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampRzExU5QnSeaFeN2VLCgsD)
     * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX-LGzbqQqaWb7jbK0l9hyl-)
 - ពិសោធន៍ ៖
-    * [វិធានដៃស្តាំ]()
+    * [វិធានដៃស្តាំ]() `My Note`
     * [កម្លាំងម៉ាញេទិច](https://www.youtube.com/watch?v=F1PWnu01IQg&t=3s)
-    * [អន្តរកម្មខ្សែចម្លង](https://physicsexperiments.eu/2098/interaction-of-wires-with-current)
-    * [បាញ់ផង់ចូលដែនម៉ាញេទិច]()
+    * [អន្តរកម្មខ្សែចម្លង](https://physicsexperiments.eu/2098/interaction-of-wires-with-current)  `Very Good Source`
+    * [បាញ់ផង់ចូលដែនម៉ាញេទិច](https://virtuelle-experimente.de/en/b-feld/anwendung/sim-massenspektrometer.php)
+
+<br>
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1pfA-OFN-ctimm8xLD_f-plxpYViDaHFs/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1FlB_3yqyzUFDLKkwbj4zy30M-MgKmDiG/view?usp=sharing)
@@ -264,6 +266,12 @@
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀន អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrAOXvtDbJ2NLCWLEZFY_Q6)
     * [🎬 មេរៀន អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://youtube.com/playlist?list=PL2G_O4s8LpX8a8sqSKEzLycx3DlAIXF4d)
+
+- ពិសោធន៍ ៖
+    * [ភ្លុចម៉ាញេទិច](https://physicsexperiments.eu/1776/coil-in-a-uniform-magnetic-field)
+    * [Levitating Ring – Lenz's Law Demonstration](https://physicsexperiments.eu/2100/levitating-ring---lenzs-law-demonstration)
+
+<br>
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/135FAan811rhnhNzSLGBqLdlJDgLepipL/view?usp=sharing) 
     * [📚 ឯកសាររបស់លោកគ្រូ-ហូ សូរិយា](https://drive.google.com/file/d/1b32QJRBG5pKKnu1zPK1NhK3Nqga1fLzc/view?usp=sharing)
