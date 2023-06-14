@@ -250,6 +250,7 @@
     * [🎬 មេរៀន ដែន និង កម្លាំងម៉ាញេទិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX-LGzbqQqaWb7jbK0l9hyl-)
 - ពិសោធន៍ ៖
     * [វិធានដៃស្តាំ]() `My Note`
+    * [All Topics Demo](https://physics.unimelb.edu.au/lecture-demonstrations/electricity-and-magnetism/forces-and-fields-from-currents) `The University of Melbourne`
     * [កម្លាំងម៉ាញេទិច](https://www.youtube.com/watch?v=F1PWnu01IQg&t=3s)
     * [អន្តរកម្មខ្សែចម្លង](https://physicsexperiments.eu/2098/interaction-of-wires-with-current)  `Very Good Source`
     * [បាញ់ផង់ចូលដែនម៉ាញេទិច](https://virtuelle-experimente.de/en/b-feld/anwendung/sim-massenspektrometer.php)
