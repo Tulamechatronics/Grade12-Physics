@@ -327,6 +327,7 @@ $i = I_p(1-e^\frac{-t}{\tau})$ `ចរន្តក្នុងរបបអចិ
 #### ស្ថិតិចេញប្រលង
 
 - [ស្ថិតិចេញប្រលងរូបវិទ្យាតាមមេរៀន](https://docs.google.com/document/d/1sVkl4RNhJqZsS4AHoq_IcT5ZPGxUUXyVAb34qaGBylI/edit?usp=sharing)
+- [ស្ថិតិ Update-2023](https://docs.google.com/spreadsheets/d/1CJtHCHRysNLnfuHA0Ux9BRXptS37H8JHWkfvZ-4YcQ8/edit?usp=sharing)
 
 #### 🎯 សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប (ធានា បាន A+ រូបវិទ្យា) 🥇
 
