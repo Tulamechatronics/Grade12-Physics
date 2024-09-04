@@ -30,8 +30,8 @@
     * 1.3\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
 * [Online Textbook](#Online-Textbook)
-* [Course Syllabus](#-Course-Syllabus-)
-* [សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១២ របស់ក្រសួងអប់រំយុវជន និង កីឡា](#សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី-១២-របស់ក្រសួងអប់រំយុវជន-និង-កីឡា)
+* [Course Syllabus & កម្មវិធីសិក្សាលម្អិត](#-Course-Syllabus-)
+* [សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១២ របស់ក្រសួងអប់រំយុវជន និង កីឡា](#សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី-១១-១២-របស់ក្រសួងអប់រំយុវជន-និង-កីឡា)
 
 * ជំពូកទី ០១\. [ទែម៉ូឌីណាមិច](#ជំពូកទី-១-ទែម៉ូឌីណាមិច)
     * L.1\. [ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន](#មេរៀនទី-០១-ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន)
@@ -121,8 +121,14 @@
 <br>
 
 - [Physics Grade 12 ](https://docs.google.com/document/d/1iw9oEosUIuEuoWzSpInsq2Ml6TVzcU8F2G_UIqsFcYQ/edit?usp=sharing)
+  
 
 <br>
+
+# កម្មវិធីសិក្សាលម្អិតរូបវិទ្យា
+
+- [កម្មវិធីសិក្សាលម្អិតរូបវិទ្យាកម្រិតមធ្យមសិក្សាទុតិយភូមិ​ -khmer]()
+- [កម្មវិធីសិក្សាលម្អិតរូបវិទ្យាកម្រិតមធ្យមសិក្សាទុតិយភូមិ​ -​singapore]()
 
 # សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១១-១២ របស់ក្រសួងអប់រំយុវជន និង កីឡា
 <br>
