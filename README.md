@@ -126,10 +126,12 @@
 <br>
 
 # កម្មវិធីសិក្សាលម្អិតរូបវិទ្យា
+<br>
+- [កម្មវិធីសិក្សាលម្អិតរូបវិទ្យាកម្រិតមធ្យមសិក្សាទុតិយភូមិ​ -​​ khmer]()
+- [កម្មវិធីសិក្សាលម្អិតរូបវិទ្យាកម្រិតមធ្យមសិក្សាទុតិយភូមិ​ -​ singapore - upper secondary](https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/updated-2024/2023-olevel-physics-syllabus-updated-2024.pdf)
+- [កម្មវិធីសិក្សាលម្អិតរូបវិទ្យាកម្រិតមធ្យមសិក្សាទុតិយភូមិ​ -​ singapore - A Level / Pre-Uni](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/science/preuniversity_h2_physics_syllabus.pdf)
 
-- [កម្មវិធីសិក្សាលម្អិតរូបវិទ្យាកម្រិតមធ្យមសិក្សាទុតិយភូមិ​ -khmer]()
-- [កម្មវិធីសិក្សាលម្អិតរូបវិទ្យាកម្រិតមធ្យមសិក្សាទុតិយភូមិ​ -​singapore]()
-
+<br>
 # សៀវភៅពុម្ពរូបវិទ្យាថ្នាក់ទី ១១-១២ របស់ក្រសួងអប់រំយុវជន និង កីឡា
 <br>
 
